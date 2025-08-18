@@ -40,12 +40,56 @@ Currently, I’m diving deep into **Next.js, Node.js, Databases, and Operating S
 
 ---
 
-## 📊 GitHub Stats  
+<!-- 📊 GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Ubaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)  
+<div align="center">
 
----
+  <!-- Card Row -->
+  <div style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center;">
+
+    <!-- Stats Card -->
+    <a href="https://github.com/YOUR_USERNAME">
+      <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&cache_seconds=7200&theme=radical"
+        style="height: 170px; border-radius: 16px;"
+        onerror="this.onerror=null; this.src='https://img.shields.io/badge/Stats-Unavailable-lightgrey?logo=github';"
+      />
+    </a>
+
+    <!-- Top Languages Card -->
+    <a href="https://github.com/YOUR_USERNAME">
+      <img
+        alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true&cache_seconds=7200&theme=radical"
+        style="height: 170px; border-radius: 16px;"
+        onerror="this.onerror=null; this.src='https://img.shields.io/badge/Top%20Langs-Unavailable-lightgrey?logo=github';"
+      />
+    </a>
+
+  </div>
+
+  <!-- Optional Streak (nice visual) -->
+  <div style="margin-top:12px;">
+    <a href="https://github.com/YOUR_USERNAME">
+      <img
+        alt="GitHub Streak"
+        src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=495&theme=radical"
+        style="height: 170px; border-radius: 16px;"
+        onerror="this.onerror=null; this.src='https://img.shields.io/badge/Streak-Unavailable-lightgrey?logo=github';"
+      />
+    </a>
+  </div>
+
+  <!-- Tiny legend / pills -->
+  <p>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&label=Profile+Views">
+    <img alt="Follow" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat">
+    <img alt="Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat">
+  </p>
+
+</div>
 
 ## 🌟 Featured Projects  
 
