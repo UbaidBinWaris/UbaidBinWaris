@@ -1,318 +1,757 @@
-<!-- Typing SVG Header -->
-<p align="center">
-  <a href="https://github.com/ubaidwaris">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=63B8B2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+👋,+I'm+Ubaid+Bin+Waris;Full+Stack+Developer+%7C+System+Developer;AI+Automation+%7C+Linux+Enthusiast;Building+Amazing+Software+Solutions" alt="Typing Animation" />
-  </a>
-</p>
+<div align="center"</div>
 
-### 🎖️ **Key Achievements**
+--- Waris
 
-![DSA Expert](https://img.shields.io/badge/DSA_Expert-Advanced-63B8B2?style=for-the-badge&labelColor=0A1930)
-![System Developer](https://img.shields.io/badge/System_Developer-Proficient-63B8B2?style=for-the-badge&labelColor=0A1930)
-![Full Stack](https://img.shields.io/badge/Full_Stack-Expert-63B8B2?style=for-the-badge&labelColor=0A1930)
-![AI Automation](https://img.shields.io/badge/AI_Automation-Specialist-63B8B2?style=for-the-badge&labelColor=0A1930)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
-### 🚀 **Current Status**
+<br/>
 
-![Currently Working](https://img.shields.io/badge/Status-Available_for_Projects-63B8B2?style=for-the-badge&labelColor=0A1930)
-![Location](https://img.shields.io/badge/📍_Islamabad-Pakistan-404040?style=for-the-badge&labelColor=F5F5F5)
-![Remote Work](https://img.shields.io/badge/Remote_Work-Open-63B8B2?style=for-the-badge&labelColor=0A1930)
+### 🏆 Showcasing Innovation Through Code
+*From real-time applications to system-level programming - every project tells a story of innovation*
 
-<!-- Keywords for SEO and Discoverability -->
-<!-- Keywords: Full Stack Developer, System Developer, Web Development, React, Next.js, Node.js, C++, JavaScript, TypeScript, MongoDB, MySQL, AI Automation, Linux, Git, GitHub, Frontend, Backend, Database Design, Software Engineering, Open Source, Tech Enthusiast, HTML5, CSS3, Bootstrap, Tailwind CSS, Express.js, REST API, Assembly Language, DSA, Python, Flask, Cloud Computing, Cybersecurity, n8n Automation -->
+<br/>
+ 
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-20+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technologies-15+-06B6D4?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client_Work-5+-10B981?style=for-the-badge&logo=handshake&logoColor=white" />
+</div>
+
+</div>
+
+<br/>
+
+### � Showcasing Innovation Through Code
+*From real-time applications to system-level programming - every project tells a story of innovation*
+
+<br/>
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=ubaidwaris&color=63B8B2&style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/ubaidwaris?logo=github&style=for-the-badge&color=63B8B2&labelColor=0A1930)
-  ![GitHub User's stars](https://img.shields.io/github/stars/ubaidwaris?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=63B8B2&labelColor=0A1930)
+  <img src="https://img.shields.io/badge/Projects-20+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technologies-15+-06B6D4?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client_Work-5+-10B981?style=for-the-badge&logo=handshake&logoColor=white" />
+</div>
 
 </div>
 
 ---
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" />
-</p>
-
----
-
-## 🚀 About Me  
-
 <div align="center">
 
-### 💫 **Passionate Full Stack Developer & Tech Innovator**
+## 🌟 Crafting Digital Solutions That Make an Impact
+
+*Passionate about building scalable **web applications**, modern **UIs**, and exploring **system-level programming***
 
 </div>
 
-Hi, I'm **Ubaid Bin Waris** — a passionate **Full Stack Developer** from **Islamabad, Pakistan**. I specialize in building modern, scalable, and user-friendly web applications using **Next.js**, **React**, **Node.js**, and **MongoDB**. With a strong background in both frontend and backend, I love turning ideas into real products that make an impact.
+### 🚀 About Me
 
-💡 I'm also experienced in **Linux**, **cloud computing**, and **cybersecurity**, which helps me design reliable and secure systems. Beyond coding, I explore automation with **n8n** and **AI agents** to bring smarter, faster solutions to life.
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-✨ I believe in **continuous learning**, **open-source collaboration**, and crafting **clean, maintainable code**.
+- 🎓 **Computer Science Student** with a passion for innovation
+- 🌐 Specializing in **Next.js, React, Node.js, and MongoDB**
+- ⚡ Exploring **Operating Systems, Game Development, and AI**
+- 💡 **Linux Enthusiast** (Ubuntu, Fedora, Arch, Zorin)
+- 📚 Expert in **system-level projects** and **database systems**
+- 🔥 Strong foundation in **C++ (DSA)** and **Assembly**
 
-### 🎯 **What I Do:**
-- 🌐 **Frontend Development**: React, Next.js, TypeScript, Tailwind CSS, Responsive UI/UX
-- 🔧 **Backend Development**: Node.js, Express.js, REST APIs, Database Architecture  
-- 💻 **System Programming**: C++, Assembly Language, Data Structures & Algorithms
-- 🤖 **AI & Automation**: n8n Workflow Automation, AI Agents & Smart Solutions
-- 🐧 **DevOps & Security**: Linux Administration, Cloud Computing, Cybersecurity
-- 🚀 **Performance Optimization**: Scalable applications, System efficiency
-
----
-
-## 🚀 Tech Stack & Technologies
-
-<div align="center">
-
-### 🌐 **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-63B8B2?style=for-the-badge&logo=html5&logoColor=white&labelColor=0A1930)
-![CSS3](https://img.shields.io/badge/CSS3-63B8B2?style=for-the-badge&logo=css3&logoColor=white&labelColor=0A1930)
-![JavaScript](https://img.shields.io/badge/JavaScript-63B8B2?style=for-the-badge&logo=javascript&logoColor=0A1930&labelColor=F5F5F5)
-![TypeScript](https://img.shields.io/badge/TypeScript-63B8B2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A1930)
-![React](https://img.shields.io/badge/React-63B8B2?style=for-the-badge&logo=react&logoColor=white&labelColor=0A1930)
-![Next.js](https://img.shields.io/badge/Next.js-0A1930?style=for-the-badge&logo=nextdotjs&logoColor=63B8B2)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-63B8B2?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0A1930)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-404040?style=for-the-badge&logo=bootstrap&logoColor=F5F5F5)
-
-### ⚙️ **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-63B8B2?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0A1930)
-![Express.js](https://img.shields.io/badge/Express.js-0A1930?style=for-the-badge&logo=express&logoColor=63B8B2)
-![Python](https://img.shields.io/badge/Python-63B8B2?style=for-the-badge&logo=python&logoColor=white&labelColor=0A1930)
-![Flask](https://img.shields.io/badge/Flask-0A1930?style=for-the-badge&logo=flask&logoColor=63B8B2)
-![C++](https://img.shields.io/badge/C++-404040?style=for-the-badge&logo=c%2B%2B&logoColor=F5F5F5)
-
-### 🗄️ **Database & Storage**
-![MongoDB](https://img.shields.io/badge/MongoDB-63B8B2?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A1930)
-![MySQL](https://img.shields.io/badge/MySQL-404040?style=for-the-badge&logo=mysql&logoColor=F5F5F5)
-![Mongoose](https://img.shields.io/badge/Mongoose-63B8B2?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=0A1930)
-
-### 💻 **System & Low-Level Programming**
-![Assembly](https://img.shields.io/badge/Assembly-0A1930?style=for-the-badge&logo=assemblyscript&logoColor=63B8B2)
-![Linux](https://img.shields.io/badge/Linux-63B8B2?style=for-the-badge&logo=linux&logoColor=0A1930&labelColor=F5F5F5)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-404040?style=for-the-badge&logo=ubuntu&logoColor=F5F5F5)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-63B8B2?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0A1930)
-
-### 🛠️ **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-404040?style=for-the-badge&logo=git&logoColor=F5F5F5)
-![GitHub](https://img.shields.io/badge/GitHub-0A1930?style=for-the-badge&logo=github&logoColor=63B8B2)
-![VS Code](https://img.shields.io/badge/VS_Code-63B8B2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0A1930)
-![n8n](https://img.shields.io/badge/n8n-63B8B2?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0A1930)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-404040?style=for-the-badge&logo=hackthebox&logoColor=F5F5F5)
-
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,nodejs,express,mongodb,mysql,cpp,python,flask,linux,git,github,vscode&theme=light" />
-</p>
+<br clear="right"/>
 
 ---
 
-## 🎨 Featured Projects & Portfolio
-
 <div align="center">
 
-### 🏆 **Showcasing Innovation Through Code**
+## 🛠️ Tech Arsenal
+
+*Mastering the tools that build tomorrow's digital solutions*
 
 </div>
 
-<table>
+<div align="center">
+
+### 🌐 Frontend Technologies
+
+<table align="center" width="80%">
 <tr>
-<td width="50%">
-  <h3 align="center">💬 **Echo Chat Application** - Client Project</h3>
-  <p align="center">
-    <img src="assets/echo-chat.gif" width="100%" alt="Echo Chat Application"/>
-  </p>
-  <p align="center">
-    <strong>Technologies:</strong> React.js • Node.js • Socket.io • MongoDB • Real-time Communication
-  </p>
-  <p align="center">
-    <strong>Features:</strong> Real-time Messaging • User Authentication • Chat Rooms • Message History • Mobile Responsive
-  </p>
-  <p align="center">
-    <a href="https://echoappco.com"><img src="https://img.shields.io/badge/Live_Site-63B8B2?style=for-the-badge&logo=web&logoColor=white&labelColor=0A1930"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Client_Project-404040?style=for-the-badge&logo=handshake&logoColor=F5F5F5"/></a>
-  </p>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+<br/>
+<b>HTML5</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
 </td>
-<td width="50%">
-  <h3 align="center">🎵 **Spotify Clone** - Music Streaming Platform</h3>
-  <p align="center">
-    <img src="assets/music.gif" width="100%" alt="Music Streaming App"/>
-  </p>
-  <p align="center">
-    <strong>Technologies:</strong> React.js • Node.js • MongoDB • Express.js • Custom Audio APIs
-  </p>
-  <p align="center">
-    <strong>Features:</strong> Custom Playbar • Soundbar • Interactive Buttons • Smooth Animations • Playlist Management
-  </p>
-  <p align="center">
-    <a href="https://github.com/ubaidwaris/music-app"><img src="https://img.shields.io/badge/View_Code-0A1930?style=for-the-badge&logo=github&logoColor=63B8B2"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Live_Demo-63B8B2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1930"/></a>
-  </p>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
+<br/>
+<b>CSS3</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+<br/>
+<b>JavaScript</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50"/>
+<br/>
+<b>React</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
+<br/>
+<b>Next.js</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>1.5+ years</small>
 </td>
 </tr>
 <tr>
-<td width="50%">
-  <h3 align="center">🚓 **Smart Car Challan System**</h3>
-  <p align="center">
-    <img src="assets/car.gif" width="100%" alt="Car Challan Management System"/>
-  </p>
-  <p align="center">
-    <strong>Technologies:</strong> C++ • OOP • File Handling • Encryption • Multi-Class Architecture
-  </p>
-  <p align="center">
-    <strong>Features:</strong> Violation Tracking • Secure Data Encryption • Multi-File Project Structure • Advanced C++ Concepts
-  </p>
-  <p align="center">
-    <a href="https://github.com/ubaidwaris/car-challan"><img src="https://img.shields.io/badge/View_Code-0A1930?style=for-the-badge&logo=github&logoColor=63B8B2"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Documentation-404040?style=for-the-badge&logo=googledocs&logoColor=F5F5F5"/></a>
-  </p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50"/>
+<br/>
+<b>TailwindCSS</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
 </td>
-<td width="50%">
-  <h3 align="center">🎓 **University Management System**</h3>
-  <p align="center">
-    <img src="assets/university.gif" width="100%" alt="University Management System"/>
-  </p>
-  <p align="center">
-    <strong>Technologies:</strong> Next.js • SQL Database • REST APIs • Responsive Design
-  </p>
-  <p align="center">
-    <strong>Features:</strong> Student Portal • Admin Dashboard • Database Management • Dynamic Data Fetching
-  </p>
-  <p align="center">
-    <a href="https://github.com/ubaidwaris/university-system"><img src="https://img.shields.io/badge/View_Code-0A1930?style=for-the-badge&logo=github&logoColor=63B8B2"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Live_Demo-63B8B2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1930"/></a>
-  </p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
+<br/>
+<b>TypeScript</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>1+ years</small>
 </td>
-</tr>
-<tr>
-<td width="50%">
-  <h3 align="center">🏠 **Interior Design E-commerce**</h3>
-  <p align="center">
-    <img src="assets/ecommerce.gif" width="100%" alt="E-commerce Platform"/>
-  </p>
-  <p align="center">
-    <strong>Technologies:</strong> React • Node.js • MongoDB • Payment Integration
-  </p>
-  <p align="center">
-    <strong>Features:</strong> Product Catalog • Shopping Cart • User Authentication • Responsive UI/UX
-  </p>
-  <p align="center">
-    <a href="https://github.com/ubaidwaris/interior-ecommerce"><img src="https://img.shields.io/badge/View_Code-0A1930?style=for-the-badge&logo=github&logoColor=63B8B2"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Live_Demo-63B8B2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A1930"/></a>
-  </p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
+<br/>
+<b>Bootstrap</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>2+ years</small>
 </td>
-<td width="50%">
-  <!-- Additional project slot -->
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50"/>
+<br/>
+<b>Sass/SCSS</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50"/>
+<br/>
+<b>Figma</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
 </td>
 </tr>
 </table>
 
-### 🌟 **Additional Projects & Contributions**
+---
+
+### ⚙️ Backend & Database
+
+<table align="center" width="80%">
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
+<br/>
+<b>Node.js</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50"/>
+<br/>
+<b>Express</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
+<br/>
+<b>MongoDB</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1.5+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+<br/>
+<b>MySQL</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="50"/>
+<br/>
+<b>Socket.io</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
+<br/>
+<b>Python</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50"/>
+<br/>
+<b>Flask</b>
+<br/>
+<img src="https://img.shields.io/badge/Beginner-EF4444?style=flat-square" />
+<br/>
+<small>6+ months</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>
+<br/>
+<b>PostgreSQL</b>
+<br/>
+<img src="https://img.shields.io/badge/Beginner-EF4444?style=flat-square" />
+<br/>
+<small>6+ months</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50"/>
+<br/>
+<b>Redis</b>
+<br/>
+<img src="https://img.shields.io/badge/Beginner-EF4444?style=flat-square" />
+<br/>
+<small>3+ months</small>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50"/>
+<br/>
+<b>FastAPI</b>
+<br/>
+<img src="https://img.shields.io/badge/Learning-8B5CF6?style=flat-square" />
+<br/>
+<small>New</small>
+</td>
+</tr>
+</table>
+
+---
+
+### 🔧 Tools & DevOps
+
+<table align="center" width="80%">
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>
+<br/>
+<b>Git</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>
+<br/>
+<b>GitHub</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/>
+<br/>
+<b>Linux</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/>
+<br/>
+<b>Docker</b>
+<br/>
+<img src="https://img.shields.io/badge/Beginner-EF4444?style=flat-square" />
+<br/>
+<small>6+ months</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
+<br/>
+<b>C++</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
+<br/>
+<b>VS Code</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="50"/>
+<br/>
+<b>Vim</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50"/>
+<br/>
+<b>NPM</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="50"/>
+<br/>
+<b>Webpack</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50"/>
+<br/>
+<b>Bash</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
-![React Projects](https://img.shields.io/badge/React_Projects-9-63B8B2?style=for-the-badge&logo=react&labelColor=0A1930)
-![Client Projects](https://img.shields.io/badge/Client_Projects-1-404040?style=for-the-badge&logo=handshake&labelColor=F5F5F5)
-![C++ Applications](https://img.shields.io/badge/C++_Apps-5-63B8B2?style=for-the-badge&logo=cplusplus&labelColor=0A1930)
-![Web Development](https://img.shields.io/badge/Web_Projects-15+-404040?style=for-the-badge&logo=github&labelColor=F5F5F5)
-![System Projects](https://img.shields.io/badge/System_Projects-4-63B8B2?style=for-the-badge&logo=linux&labelColor=0A1930)
+### 📊 Skill Level Legend
+
+<img src="https://img.shields.io/badge/Expert-Professional_Level-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Advanced-Production_Ready-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Intermediate-Project_Experience-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Beginner-Learning_&_Practice-EF4444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-Currently_Exploring-8B5CF6?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🏆 Professional Excellence & Expertise
+<div align="center">
+
+## 🏆 Featured Projects Portfolio
+
+*Building tomorrow's solutions with today's technology*
+
+</div>
 
 <div align="center">
 
-### 💼 **Comprehensive Skills Portfolio**
+### 💬 Echo Chat Application
+**🎯 Professional Client Project**
 
-*"Mastering the full spectrum of modern technology development"*
+<img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Client_Work-6366F1?style=for-the-badge" />
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
+</td>
+<td width="50%">
+
+#### ✨ Key Features
+- 💬 **Real-time Messaging System**
+- 🔐 **Secure User Authentication**  
+- 🏠 **Multiple Chat Rooms**
+- 📱 **Fully Mobile Responsive**
+- 💾 **Message History & Storage**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit-10B981?style=for-the-badge)](https://github.com/UbaidBinWaris/echo-chat)
+[![Client Work](https://img.shields.io/badge/📋_Client_Work-Success-6366F1?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-### 🎯 **Frontend Development**
-<details>
-<summary><strong>🌐 Click to explore Frontend Mastery</strong></summary>
+<div align="center">
 
-| **Core Technologies** | **Advanced Capabilities** | **Performance & Quality** |
-|----------------------|----------------------------|---------------------------|
-| ![React](https://img.shields.io/badge/React.js-63B8B2?style=flat-square&logo=react&logoColor=white) | React Ecosystem (Hooks, Context, Redux, Zustand) | SEO Optimization & Core Web Vitals |
-| ![Next.js](https://img.shields.io/badge/Next.js-0A1930?style=flat-square&logo=nextdotjs&logoColor=63B8B2) | Component-Driven Architecture & Design Systems | Cross-Browser Compatibility & Debugging |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-63B8B2?style=flat-square&logo=typescript&logoColor=white) | Modern CSS Frameworks (Tailwind, Bootstrap, Material UI, Shadcn UI) | Responsive Web Design & Mobile-First Development |
-| ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-404040?style=flat-square&logo=javascript&logoColor=F5F5F5) | UI/UX Animation (Framer Motion, GSAP, CSS Transitions) | Progressive Web Apps (PWA) Development |
+### 🎵 Spotify Clone Platform
+**🎯 Music Streaming Application**
 
-</details>
+<img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Personal-F59E0B?style=for-the-badge" />
 
----
+</div>
 
-### ⚙️ **Backend Development**
-<details>
-<summary><strong>🛠️ Click to explore Backend Architecture</strong></summary>
+<table align="center">
+<tr>
+<td width="50%">
 
-| **API Development** | **Database Systems** | **Infrastructure & Security** |
-|--------------------|---------------------|------------------------------|
-| ![Node.js](https://img.shields.io/badge/Node.js-63B8B2?style=flat-square&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-404040?style=flat-square&logo=mongodb&logoColor=F5F5F5) | ![JWT](https://img.shields.io/badge/JWT-63B8B2?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| RESTful API & GraphQL Design | MySQL, PostgreSQL, Redis | Authentication & Authorization (OAuth2, Session Management) |
-| Express.js, Flask Integration | Database Architecture & Optimization | Server Management (Vercel, Netlify, Nginx, Apache) |
-| Microservices Architecture | Caching Strategies & Performance | Real-Time Communication (WebSockets, Socket.IO) |
+#### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 
-</details>
+</td>
+<td width="50%">
 
----
+#### ✨ Key Features
+- 🎶 **Custom Audio Playbar**
+- 🎵 **Interactive Sound Controls**
+- ⚡ **Smooth UI Animations**
+- 📋 **Playlist Management**
+- 🎧 **Audio Streaming Engine**
 
-### 💻 **System Programming & Core Computer Science**
-<details>
-<summary><strong>⚡ Click to explore System-Level Expertise</strong></summary>
+</td>
+</tr>
+</table>
 
-| **Programming Languages** | **System Design** | **Security & Performance** |
-|---------------------------|-------------------|---------------------------|
-| ![C++](https://img.shields.io/badge/C++-404040?style=flat-square&logo=cplusplus&logoColor=F5F5F5) | Operating System Design & Process Scheduling | Encryption, Cryptography & Security Protocols |
-| Assembly Language (x86, MASM, NASM) | Compiler Design & Language Parsing | File Systems, Memory Management & Concurrency |
-| Data Structures & Algorithms (DSA) | Linux Customization & Kernel Tweaks | Advanced Problem Solving & Code Optimization |
-| Shell Scripting & Automation | Low-Level Hardware Interaction | Performance Profiling & System Optimization |
+<div align="center">
 
-</details>
+[![View Code](https://img.shields.io/badge/💻_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris/spotify-clone)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-10B981?style=for-the-badge)](https://github.com/UbaidBinWaris/spotify-clone)
+
+</div>
 
 ---
 
-### ☁️ **Cloud Computing & DevOps**
-<details>
-<summary><strong>🌤️ Click to explore Cloud Infrastructure</strong></summary>
+<div align="center">
 
-| **Cloud Platforms** | **Containerization** | **CI/CD & Monitoring** |
-|--------------------|---------------------|------------------------|
-| ![AWS](https://img.shields.io/badge/AWS-63B8B2?style=flat-square&logo=amazonwebservices&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-404040?style=flat-square&logo=docker&logoColor=F5F5F5) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-63B8B2?style=flat-square&logo=githubactions&logoColor=white) |
-| Azure, Google Cloud Platform (GCP) | Kubernetes & Container Orchestration | GitLab CI, Jenkins Pipeline Automation |
-| Infrastructure as Code (Terraform, Ansible) | Load Balancing & High Availability | Monitoring & Logging (Prometheus, Grafana, ELK Stack) |
-| Serverless Architecture & Functions | Scaling Strategies & Auto-scaling | Performance Monitoring & Alerting |
+### 🚓 Smart Car Challan System
+**🎯 C++ System Application**
 
-</details>
+<img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-FF6B6B?logo=code&logoColor=white&style=flat-square)
+![Encryption](https://img.shields.io/badge/-Encryption-4ECDC4?logo=shield&logoColor=white&style=flat-square)
+![File System](https://img.shields.io/badge/-File_System-45B7D1?logo=file&logoColor=white&style=flat-square)
+
+</td>
+<td width="50%">
+
+#### ✨ Key Features
+- 🚗 **Vehicle Violation Tracking**
+- 🔒 **Advanced Data Encryption**
+- 📁 **Multi-File Architecture**
+- ⚙️ **Object-Oriented Design**
+- 💾 **Secure File Management**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/💻_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris/car-challan-system)
+[![Documentation](https://img.shields.io/badge/📖_Documentation-Read-6366F1?style=for-the-badge)](https://github.com/UbaidBinWaris/car-challan-system#readme)
+
+</div>
 
 ---
 
-### 🤖 **Artificial Intelligence & Automation**
-<details>
-<summary><strong>🧠 Click to explore AI/ML Capabilities</strong></summary>
+<div align="center">
 
-| **Machine Learning** | **Automation Tools** | **Data Science** |
-|---------------------|---------------------|------------------|
+### 🎓 University Management System
+**🎯 Next.js Web Application**
+
+<img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🛠️ Tech Stack
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![API](https://img.shields.io/badge/-API-FF6B6B?logo=fastapi&logoColor=white&style=flat-square)
+![Responsive](https://img.shields.io/badge/-Responsive-38B2AC?logo=responsive&logoColor=white&style=flat-square)
+
+</td>
+<td width="50%">
+
+#### ✨ Key Features
+- 👨‍🎓 **Comprehensive Student Portal**
+- 👨‍💼 **Advanced Admin Dashboard**
+- 💾 **Robust Database Management**
+- 🔄 **Dynamic Data Processing**
+- 📊 **Real-time Analytics**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/💻_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris/university-management)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-10B981?style=for-the-badge)](https://github.com/UbaidBinWaris/university-management)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏠 Interior Design E-commerce
+**🎯 Full-Stack Shopping Platform**
+
+<img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-Commercial-DC2626?style=for-the-badge" />
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Payment](https://img.shields.io/badge/-Payment-00BAE9?logo=stripe&logoColor=white&style=flat-square)
+
+</td>
+<td width="50%">
+
+#### ✨ Key Features
+- 🛍️ **Advanced Product Catalog**
+- 🛒 **Smart Shopping Cart System**
+- 🔐 **Secure User Authentication**
+- 💳 **Payment Gateway Integration**
+- 📱 **Mobile-First Design**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/💻_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris/interior-ecommerce)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-10B981?style=for-the-badge)](https://github.com/UbaidBinWaris/interior-ecommerce)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Innovation Pipeline
+
+<img src="https://img.shields.io/badge/Coming_Soon-2024-FF6B6B?style=for-the-badge&logo=rocket" />
+
+### 🔬 AI-Powered Analytics Dashboard
+**🎯 Next-Generation Data Intelligence**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🛠️ Upcoming Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+
+</td>
+<td width="50%">
+
+#### ✨ Planned Features
+- 🤖 **AI-Powered Data Insights**
+- 📊 **Real-time Analytics**
+- 🎯 **Predictive Modeling**
+- 🌐 **Interactive Dashboards**
+- 📈 **Performance Optimization**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Follow Progress](https://img.shields.io/badge/📊_Follow_Progress-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://github-profile-trophy.vercel.app/?username=UbaidBinWaris&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UbaidBinWaris&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidBinWaris&layout=compact&langs_count=8&hide_border=true&theme=radical&cache_seconds=86400" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=UbaidBinWaris&hide_border=true&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UbaidBinWaris&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=UbaidBinWaris&style=for-the-badge&color=6366F1" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/UbaidBinWaris?style=for-the-badge&color=10B981&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/UbaidBinWaris?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&logo=github" alt="Stars" />
+</div>
+
+---
+
+<div align="center">
+
+## 🌍 Let's Connect & Collaborate
+
+<p>
+  <a href="https://ubaidbinwaris.dev">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ubaid-bin-waris">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/UbaidBinWaris">
+    <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:ubaidbinwaris@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/ubaidbinwaris">
+    <img src="https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://discord.com/users/ubaidbinwaris">
+    <img src="https://img.shields.io/badge/💬_Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 Current Focus
+
+```javascript
+const ubaid = {
+    code: ["JavaScript", "TypeScript", "C++", "Python"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "TailwindCSS"],
+        backEnd: ["Node.js", "Express", "FastAPI"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "Linux", "VS Code"]
+    },
+    currentlyLearning: ["AI/ML", "System Design", "Cloud Computing"],
+    goals: ["Contributing to Open Source", "Building SaaS Products"],
+    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+};
+```
+
+</div>
+
+<div align="center">
+
+### ✨ _"Code is like art, and every project is a canvas to create something impactful."_
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" />
+
+**Thank you for visiting my profile! Let's build something amazing together! 🚀**
+
+</div>
 | ![Python](https://img.shields.io/badge/Python-63B8B2?style=flat-square&logo=python&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-404040?style=flat-square&logo=n8n&logoColor=F5F5F5) | ![NumPy](https://img.shields.io/badge/NumPy-63B8B2?style=flat-square&logo=numpy&logoColor=white) |
 | TensorFlow, Scikit-learn Fundamentals | AI Agent & Bot Development | Pandas, Matplotlib, Seaborn, Plotly |
 | Natural Language Processing (NLP) | Workflow Automation & API Integrations | Data Analysis & Visualization |
 | Computer Vision Basics | Webhook & Event-Driven Architecture | Statistical Analysis & Pattern Recognition |
 
-</details>
-
 ---
 
 ### 🎨 **Design & User Experience**
-<details>
-<summary><strong>🎭 Click to explore UX/UI Design Skills</strong></summary>
+🎭 **UX/UI Design Skills**
 
 | **Design Tools** | **UX Methodology** | **Accessibility** |
 |------------------|-------------------|-------------------|
@@ -321,13 +760,10 @@ Hi, I'm **Ubaid Bin Waris** — a passionate **Full Stack Developer** from **Isl
 | Branding & Visual Identity | User Journey Mapping & Information Architecture | Color Contrast & Typography Optimization |
 | Design Systems & Style Guides | A/B Testing & User Research | Keyboard Navigation & Focus Management |
 
-</details>
-
 ---
 
 ### 🔒 **Cybersecurity & Networking**
-<details>
-<summary><strong>🛡️ Click to explore Security Expertise</strong></summary>
+🛡️ **Security Expertise**
 
 | **Network Security** | **Ethical Hacking** | **Protocols & Standards** |
 |---------------------|---------------------|---------------------------|
@@ -336,13 +772,10 @@ Hi, I'm **Ubaid Bin Waris** — a passionate **Full Stack Developer** from **Isl
 | VPN, Proxy & Anonymity Tools | Secure Coding & Threat Mitigation | SSL/TLS Certificate Management |
 | Intrusion Detection Systems (IDS) | Social Engineering Awareness | Network Monitoring & Traffic Analysis |
 
-</details>
-
 ---
 
 ### 📊 **Project Management & Collaboration**
-<details>
-<summary><strong>🤝 Click to explore Leadership Skills</strong></summary>
+🤝 **Leadership Skills**
 
 | **Methodologies** | **Tools & Platforms** | **Communication** |
 |-------------------|----------------------|-------------------|
@@ -350,8 +783,6 @@ Hi, I'm **Ubaid Bin Waris** — a passionate **Full Stack Developer** from **Isl
 | Scrum, Kanban Methodologies | GitHub, GitLab, Bitbucket | Technical Documentation & Writing |
 | Sprint Planning & Retrospectives | Jira, Trello, Asana | Cross-Functional Team Leadership |
 | Risk Management & Quality Assurance | Slack, Discord, Notion | Stakeholder Management & Reporting |
-
-</details>
 
 ---
 
