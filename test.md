@@ -1,27 +1,12 @@
-<div align="center"</div>
+<div align="center">
 
---- Waris
+# 👋 Hi, I'm Ubaid Bin Waris
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
 <br/>
 
 ### 🏆 Showcasing Innovation Through Code
-*From real-time applications to system-level programming - every project tells a story of innovation*
-
-<br/>
- 
-<div align="center">
-  <img src="https://img.shields.io/badge/Projects-20+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technologies-15+-06B6D4?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Client_Work-5+-10B981?style=for-the-badge&logo=handshake&logoColor=white" />
-</div>
-
-</div>
-
-<br/>
-
-### � Showcasing Innovation Through Code
 *From real-time applications to system-level programming - every project tells a story of innovation*
 
 <br/>
@@ -121,7 +106,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50"/>
 <br/>
 <b>TailwindCSS</b>
 <br/>

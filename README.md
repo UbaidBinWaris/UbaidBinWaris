@@ -1,8 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Ubaid Bin Waris
+# 👋 Hi, I'm Ub- 📚 Expert in **system-level projects** and **database systems**
+- 🔥 Strong foundation in **C++ (DSA)** and **Assembly**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
+<br clear="right"/>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 🌐 Building projects in **Next.js, TailwindCSS, Node.js, and MongoDB**
+- ⚡ Exploring **Operating Systems, Game Development (C++/C#), and AI**
+- 💡 Linux Enthusiast (Ubuntu, Fedora, Arch, Zorin)
+- 📚 Love working on **system-level projects**, **web applications**, and **database systems**mg src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
 <br/>
 
