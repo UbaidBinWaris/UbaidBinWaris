@@ -4,12 +4,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
+<br/>
+
 ### 🏆 Showcasing Innovation Through Code
 *From real-time applications to system-level programming - every project tells a story of innovation*
 
-![Projects](https://img.shields.io/badge/Projects-20+-6366F1?style=for-the-badge&logo=github&logoColor=white)
-![Technologies](https://img.shields.io/badge/Technologies-15+-06B6D4?style=for-the-badge&logo=code&logoColor=white)
-![Client Work](https://img.shields.io/badge/Client_Work-5+-10B981?style=for-the-badge&logo=handshake&logoColor=white)
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-20+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technologies-15+-06B6D4?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Client_Work-5+-10B981?style=for-the-badge&logo=handshake&logoColor=white" />
+</div>
 
 </div>
 
@@ -23,7 +29,7 @@
 
 </div>
 
-## 🚀 About Me
+### 🚀 About Me
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -44,60 +50,312 @@
 
 *Mastering the tools that build tomorrow's digital solutions*
 
-### 🌐 Frontend Technologies
-
 </div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</p>
-
 <div align="center">
+
+### 🌐 Frontend Technologies
+
+<table align="center" width="80%">
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+<br/>
+<b>HTML5</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
+<br/>
+<b>CSS3</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+<br/>
+<b>JavaScript</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50"/>
+<br/>
+<b>React</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
+<br/>
+<b>Next.js</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>1.5+ years</small>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50"/>
+<br/>
+<b>TailwindCSS</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
+<br/>
+<b>TypeScript</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
+<br/>
+<b>Bootstrap</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50"/>
+<br/>
+<b>Sass/SCSS</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50"/>
+<br/>
+<b>Figma</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+</tr>
+</table>
+
+---
 
 ### ⚙️ Backend & Database
 
-</div>
+<table align="center" width="80%">
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
+<br/>
+<b>Node.js</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50"/>
+<br/>
+<b>Express</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
+<br/>
+<b>MongoDB</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1.5+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+<br/>
+<b>MySQL</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="50"/>
+<br/>
+<b>Socket.io</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
+<br/>
+<b>Python</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50"/>
+<br/>
+<b>Flask</b>
+<br/>
+<img src="https://img.shields.io/badge/Beginner-EF4444?style=flat-square" />
+<br/>
+<small>6+ months</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>
+<br/>
+<b>PostgreSQL</b>
+<br/>
+<img src="https://img.shields.io/badge/Beginner-EF4444?style=flat-square" />
+<br/>
+<small>6+ months</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50"/>
+<br/>
+<b>Redis</b>
+<br/>
+<img src="https://img.shields.io/badge/Beginner-EF4444?style=flat-square" />
+<br/>
+<small>3+ months</small>
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50"/>
+<br/>
+<b>FastAPI</b>
+<br/>
+<img src="https://img.shields.io/badge/Learning-8B5CF6?style=flat-square" />
+<br/>
+<small>New</small>
+</td>
+</tr>
+</table>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-</p>
-
-<div align="center">
+---
 
 ### 🔧 Tools & DevOps
 
-</div>
+<table align="center" width="80%">
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>
+<br/>
+<b>Git</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>
+<br/>
+<b>GitHub</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/>
+<br/>
+<b>Linux</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/>
+<br/>
+<b>Docker</b>
+<br/>
+<img src="https://img.shields.io/badge/Beginner-EF4444?style=flat-square" />
+<br/>
+<small>6+ months</small>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
+<br/>
+<b>C++</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
+<br/>
+<b>VS Code</b>
+<br/>
+<img src="https://img.shields.io/badge/Expert-10B981?style=flat-square" />
+<br/>
+<small>3+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="50"/>
+<br/>
+<b>Vim</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50"/>
+<br/>
+<b>NPM</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="50"/>
+<br/>
+<b>Webpack</b>
+<br/>
+<img src="https://img.shields.io/badge/Intermediate-F59E0B?style=flat-square" />
+<br/>
+<small>1+ years</small>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50"/>
+<br/>
+<b>Bash</b>
+<br/>
+<img src="https://img.shields.io/badge/Advanced-06B6D4?style=flat-square" />
+<br/>
+<small>2+ years</small>
+</td>
+</tr>
+</table>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</p>
+</div>
 
 <div align="center">
 
@@ -532,14 +790,20 @@ const ubaid = {
 
 ## 📊 GitHub Analytics  
 
+<div align="center">
+
+### 📈 **Code Journey & Impact**
+
+</div>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UbaidBinWaris&theme=dark&background=0A1930&border=63B8B2&stroke=63B8B2&ring=63B8B2&fire=63B8B2&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=63B8B2&sideNums=404040&dates=404040&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=UbaidBinWaris&show_icons=true&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&icon_color=63B8B2&border_color=63B8B2&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidwaris&theme=dark&background=0A1930&border=63B8B2&stroke=63B8B2&ring=63B8B2&fire=63B8B2&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=63B8B2&sideNums=404040&dates=404040&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ubaidwaris&show_icons=true&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&icon_color=63B8B2&border_color=63B8B2&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidBinWaris&layout=compact&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&border_color=63B8B2&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=UbaidBinWaris&theme=discord&no-frame=true&column=3&margin-w=5&margin-h=5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidwaris&layout=compact&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&border_color=63B8B2&hide_border=true" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ubaidwaris&theme=discord&no-frame=true&column=4&margin-w=5&margin-h=5" width="49%" />
 </p>
 
 ---
@@ -548,17 +812,19 @@ const ubaid = {
 
 <div align="center">
 
-**Let's Build Something Amazing Together!**
+### 💬 **Let's Build Something Amazing Together!**
 
-*Open for collaborations, freelance projects, and tech discussions*
+**Open for collaborations, freelance projects, and tech discussions**
 
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ubaidwaris"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://ubaidbinwaris.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
-  <a href="mailto:ubaid.waris@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/ubaidwaris"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ubaidwaris"><img src="https://img.shields.io/badge/LinkedIn-63B8B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1930"/></a>
+  <a href="https://ubaidbinwaris.com"><img src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=vercel&logoColor=F5F5F5"/></a>
+  <a href="mailto:ubaid.waris@example.com"><img src="https://img.shields.io/badge/Email-63B8B2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1930"/></a>
+  <a href="https://twitter.com/ubaidwaris"><img src="https://img.shields.io/badge/Twitter-404040?style=for-the-badge&logo=twitter&logoColor=F5F5F5"/></a>
+  <a href="https://dev.to/ubaidwaris"><img src="https://img.shields.io/badge/Dev.to-0A1930?style=for-the-badge&logo=devdotto&logoColor=63B8B2"/></a>
+  <a href="https://discord.gg/ubaidwaris"><img src="https://img.shields.io/badge/Discord-63B8B2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A1930"/></a>
 </p>
 
 <div align="center">
@@ -587,18 +853,46 @@ const ubaid = {
 <td align="center" width="50%">
   <h4>💡 <strong>Development Philosophy</strong></h4>
   <p>🔥 <strong>Code Quality Enthusiast</strong><br/>Clean code is not just functional, but beautiful</p>
+  <p>🌱 <strong>Continuous Learner</strong><br/>Always exploring new technologies and frameworks</p>
+  <p>🌍 <strong>Open Source Advocate</strong><br/>Contributing to the global developer community</p>
+  <p>🔒 <strong>Security First</strong><br/>Implementing secure coding practices in every project</p>
+</td>
+<td align="center" width="50%">
+  <h4>⚡ <strong>Daily Inspirations</strong></h4>
+  <p>☕ <strong>Coffee-Powered Developer</strong><br/>Best code is written with a cup of coffee</p>
+  <p>🎵 <strong>Music Lover</strong><br/>Coding with background music enhances creativity</p>
+  <p>💻 <strong>System Architecture Enthusiast</strong><br/>Love designing efficient system architectures</p>
+  <p>🐧 <strong>Linux Enthusiast</strong><br/>Passionate about open source and Linux customization</p>
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-### 💭 Developer Quote
+### 💭 **Developer Quote**
 *"The best way to predict the future is to create it."* - Alan Kay
 
-### 🏠 Based in Islamabad, Pakistan 🇵🇰
-*Available for remote work and global collaborations*
+### 🏠 **Based in Islamabad, Pakistan** 🇵🇰
+**Available for remote work and global collaborations**
+
+</div>
 
 ---
 
-**Thanks for visiting!** ⭐️
+<div align="center">
 
-*Code is poetry written in logic, and every project is a masterpiece waiting to be created.*
+### 🤝 **Let's Connect & Create Something Amazing!**
+
+⭐️ **Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/ubaidwaris)**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-63B8B2?style=for-the-badge&logo=heart&logoColor=white&labelColor=0A1930" />
+</p>
+
+*"Code is poetry written in logic, and every project is a masterpiece waiting to be created."*
+
+---
+
+**Profile Keywords:** Full Stack Developer • System Developer • React Developer • Node.js Developer • C++ Programmer • JavaScript Expert • Web Development • Software Engineering • Open Source • Tech Innovation • AI Automation • Linux Administrator • Assembly Programming • DSA Expert • Cybersecurity • Database Design • Islamabad Pakistan • Remote Work
 
 </div>
