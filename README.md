@@ -1,65 +1,65 @@
-<div align="center">
+﻿<p align="center">
 
-# 👋 Hi, I'm Ubaid Bin Waris
+# ðŸ‘‹ Hi, I'm Ubaid Bin Waris
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
 <br/>
 
-### 🏆 Showcasing Innovation Through Code
+### ðŸ† Showcasing Innovation Through Code
 *From real-time applications to system-level programming - every project tells a story of innovation*
 
 <br/>
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Projects-20+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Technologies-15+-06B6D4?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Client_Work-5+-10B981?style=for-the-badge&logo=handshake&logoColor=white" />
-</div>
+</p>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 🌟 Crafting Digital Solutions That Make an Impact
+## ðŸŒŸ Crafting Digital Solutions That Make an Impact
 
 *Passionate about building scalable **web applications**, modern **UIs**, and exploring **system-level programming***
 
-</div>
+</p>
 
-### 🚀 About Me
+### ðŸš€ About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" style="width:300px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🎓 **Computer Science Student** with a passion for innovation
-- 🌐 Specializing in **Next.js, React, Node.js, and MongoDB**
-- ⚡ Exploring **Operating Systems, Game Development, and AI**
-- 💡 **Linux Enthusiast** (Ubuntu, Fedora, Arch, Zorin)
-- 📚 Expert in **system-level projects** and **database systems**
-- 🔥 Strong foundation in **C++ (DSA)** and **Assembly**
+- ðŸŽ“ **Computer Science Student** with a passion for innovation
+- ðŸŒ Specializing in **Next.js, React, Node.js, and MongoDB**
+- âš¡ Exploring **Operating Systems, Game Development, and AI**
+- ðŸ’¡ **Linux Enthusiast** (Ubuntu, Fedora, Arch, Zorin)
+- ðŸ“š Expert in **system-level projects** and **database systems**
+- ðŸ”¥ Strong foundation in **C++ (DSA)** and **Assembly**
 
 <br clear="right"/>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 🛠️ Tech Arsenal
+## ðŸ› ï¸ Tech Arsenal
 
 *Mastering the tools that build tomorrow's digital solutions*
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-### 🌐 Frontend Technologies
+### ðŸŒ Frontend Technologies
 
-<table align="center" width="80%">
+<table align="center">
 <tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width:50px;"/>
 <br/>
 <b>HTML5</b>
 <br/>
@@ -67,8 +67,8 @@
 <br/>
 <small>3+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width:50px;"/>
 <br/>
 <b>CSS3</b>
 <br/>
@@ -76,8 +76,8 @@
 <br/>
 <small>3+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:50px;"/>
 <br/>
 <b>JavaScript</b>
 <br/>
@@ -85,8 +85,8 @@
 <br/>
 <small>2+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" style="width:50px;"/>
 <br/>
 <b>React</b>
 <br/>
@@ -94,8 +94,8 @@
 <br/>
 <small>2+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="width:50px;"/>
 <br/>
 <b>Next.js</b>
 <br/>
@@ -106,7 +106,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" style="width:50px;"/>
 <br/>
 <b>TailwindCSS</b>
 <br/>
@@ -115,7 +115,7 @@
 <small>2+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width:50px;"/>
 <br/>
 <b>TypeScript</b>
 <br/>
@@ -124,7 +124,7 @@
 <small>1+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="width:50px;"/>
 <br/>
 <b>Bootstrap</b>
 <br/>
@@ -133,7 +133,7 @@
 <small>2+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" style="width:50px;"/>
 <br/>
 <b>Sass/SCSS</b>
 <br/>
@@ -142,7 +142,7 @@
 <small>1+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" style="width:50px;"/>
 <br/>
 <b>Figma</b>
 <br/>
@@ -155,12 +155,12 @@
 
 ---
 
-### ⚙️ Backend & Database
+### âš™ï¸ Backend & Database
 
-<table align="center" width="80%">
+<table align="center">
 <tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width:50px;"/>
 <br/>
 <b>Node.js</b>
 <br/>
@@ -168,8 +168,8 @@
 <br/>
 <small>2+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" style="width:50px;"/>
 <br/>
 <b>Express</b>
 <br/>
@@ -177,8 +177,8 @@
 <br/>
 <small>2+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:50px;"/>
 <br/>
 <b>MongoDB</b>
 <br/>
@@ -186,8 +186,8 @@
 <br/>
 <small>1.5+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="width:50px;"/>
 <br/>
 <b>MySQL</b>
 <br/>
@@ -195,8 +195,8 @@
 <br/>
 <small>1+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" style="width:50px;"/>
 <br/>
 <b>Socket.io</b>
 <br/>
@@ -207,7 +207,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:50px;"/>
 <br/>
 <b>Python</b>
 <br/>
@@ -216,7 +216,7 @@
 <small>1+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" style="width:50px;"/>
 <br/>
 <b>Flask</b>
 <br/>
@@ -225,7 +225,7 @@
 <small>6+ months</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width:50px;"/>
 <br/>
 <b>PostgreSQL</b>
 <br/>
@@ -234,7 +234,7 @@
 <small>6+ months</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" style="width:50px;"/>
 <br/>
 <b>Redis</b>
 <br/>
@@ -243,7 +243,7 @@
 <small>3+ months</small>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="width:50px;"/>
 <br/>
 <b>FastAPI</b>
 <br/>
@@ -256,12 +256,12 @@
 
 ---
 
-### 🔧 Tools & DevOps
+### ðŸ”§ Tools & DevOps
 
-<table align="center" width="80%">
+<table align="center">
 <tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:50px;"/>
 <br/>
 <b>Git</b>
 <br/>
@@ -269,8 +269,8 @@
 <br/>
 <small>3+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" style="width:50px;"/>
 <br/>
 <b>GitHub</b>
 <br/>
@@ -278,8 +278,8 @@
 <br/>
 <small>3+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width:50px;"/>
 <br/>
 <b>Linux</b>
 <br/>
@@ -287,8 +287,8 @@
 <br/>
 <small>2+ years</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="width:50px;"/>
 <br/>
 <b>Docker</b>
 <br/>
@@ -296,8 +296,8 @@
 <br/>
 <small>6+ months</small>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width:50px;"/>
 <br/>
 <b>C++</b>
 <br/>
@@ -308,7 +308,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" style="width:50px;"/>
 <br/>
 <b>VS Code</b>
 <br/>
@@ -317,7 +317,7 @@
 <small>3+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" style="width:50px;"/>
 <br/>
 <b>Vim</b>
 <br/>
@@ -326,7 +326,7 @@
 <small>1+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" style="width:50px;"/>
 <br/>
 <b>NPM</b>
 <br/>
@@ -335,7 +335,7 @@
 <small>2+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" style="width:50px;"/>
 <br/>
 <b>Webpack</b>
 <br/>
@@ -344,7 +344,7 @@
 <small>1+ years</small>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width:50px;"/>
 <br/>
 <b>Bash</b>
 <br/>
@@ -355,11 +355,11 @@
 </tr>
 </table>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-### 📊 Skill Level Legend
+### ðŸ“Š Skill Level Legend
 
 <img src="https://img.shields.io/badge/Expert-Professional_Level-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Advanced-Production_Ready-06B6D4?style=for-the-badge" />
@@ -367,340 +367,340 @@
 <img src="https://img.shields.io/badge/Beginner-Learning_&_Practice-EF4444?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learning-Currently_Exploring-8B5CF6?style=for-the-badge" />
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 🏆 Featured Projects Portfolio
+## ðŸ† Featured Projects Portfolio
 
 *Building tomorrow's solutions with today's technology*
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-### 💬 Echo Chat Application
-**🎯 Professional Client Project**
+### ðŸ’¬ Echo Chat Application
+**ðŸŽ¯ Professional Client Project**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Client_Work-6366F1?style=for-the-badge" />
 
-</div>
+</p>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td>
 
-#### 🛠️ Tech Stack
+#### ðŸ› ï¸ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
 </td>
-<td width="50%">
+<td>
 
-#### ✨ Key Features
-- 💬 **Real-time Messaging System**
-- 🔐 **Secure User Authentication**  
-- 🏠 **Multiple Chat Rooms**
-- 📱 **Fully Mobile Responsive**
-- 💾 **Message History & Storage**
+#### âœ¨ Key Features
+- ðŸ’¬ **Real-time Messaging System**
+- ðŸ” **Secure User Authentication**  
+- ðŸ  **Multiple Chat Rooms**
+- ðŸ“± **Fully Mobile Responsive**
+- ðŸ’¾ **Message History & Storage**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-Visit-10B981?style=for-the-badge)](https://github.com/UbaidBinWaris/echo-chat)
-[![Client Work](https://img.shields.io/badge/📋_Client_Work-Success-6366F1?style=for-the-badge)](#)
+<a href="$2"><img src="Live Site" /></a>
+<a href="$2"><img src="Client Work" /></a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 🎵 Spotify Clone Platform
-**🎯 Music Streaming Application**
+### ðŸŽµ Spotify Clone Platform
+**ðŸŽ¯ Music Streaming Application**
 
 <img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Personal-F59E0B?style=for-the-badge" />
 
-</div>
+</p>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td>
 
-#### 🛠️ Tech Stack
+#### ðŸ› ï¸ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 
 </td>
-<td width="50%">
+<td>
 
-#### ✨ Key Features
-- 🎶 **Custom Audio Playbar**
-- 🎵 **Interactive Sound Controls**
-- ⚡ **Smooth UI Animations**
-- 📋 **Playlist Management**
-- 🎧 **Audio Streaming Engine**
+#### âœ¨ Key Features
+- ðŸŽ¶ **Custom Audio Playbar**
+- ðŸŽµ **Interactive Sound Controls**
+- âš¡ **Smooth UI Animations**
+- ðŸ“‹ **Playlist Management**
+- ðŸŽ§ **Audio Streaming Engine**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
 
-[![View Code](https://img.shields.io/badge/💻_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris/spotify-clone)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-10B981?style=for-the-badge)](https://github.com/UbaidBinWaris/spotify-clone)
+<a href="$2"><img src="View Code" /></a>
+<a href="$2"><img src="Live Demo" /></a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 🚓 Smart Car Challan System
-**🎯 C++ System Application**
+### ðŸš“ Smart Car Challan System
+**ðŸŽ¯ C++ System Application**
 
 <img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
 
-</div>
+</p>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td>
 
-#### 🛠️ Tech Stack
+#### ðŸ› ï¸ Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![OOP](https://img.shields.io/badge/-OOP-FF6B6B?logo=code&logoColor=white&style=flat-square)
 ![Encryption](https://img.shields.io/badge/-Encryption-4ECDC4?logo=shield&logoColor=white&style=flat-square)
 ![File System](https://img.shields.io/badge/-File_System-45B7D1?logo=file&logoColor=white&style=flat-square)
 
 </td>
-<td width="50%">
+<td>
 
-#### ✨ Key Features
-- 🚗 **Vehicle Violation Tracking**
-- 🔒 **Advanced Data Encryption**
-- 📁 **Multi-File Architecture**
-- ⚙️ **Object-Oriented Design**
-- 💾 **Secure File Management**
+#### âœ¨ Key Features
+- ðŸš— **Vehicle Violation Tracking**
+- ðŸ”’ **Advanced Data Encryption**
+- ðŸ“ **Multi-File Architecture**
+- âš™ï¸ **Object-Oriented Design**
+- ðŸ’¾ **Secure File Management**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
 
-[![View Code](https://img.shields.io/badge/💻_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris/car-challan-system)
-[![Documentation](https://img.shields.io/badge/📖_Documentation-Read-6366F1?style=for-the-badge)](https://github.com/UbaidBinWaris/car-challan-system#readme)
+<a href="$2"><img src="View Code" /></a>
+<a href="$2"><img src="Documentation" /></a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 🎓 University Management System
-**🎯 Next.js Web Application**
+### ðŸŽ“ University Management System
+**ðŸŽ¯ Next.js Web Application**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
 
-</div>
+</p>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td>
 
-#### 🛠️ Tech Stack
+#### ðŸ› ï¸ Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![API](https://img.shields.io/badge/-API-FF6B6B?logo=fastapi&logoColor=white&style=flat-square)
 ![Responsive](https://img.shields.io/badge/-Responsive-38B2AC?logo=responsive&logoColor=white&style=flat-square)
 
 </td>
-<td width="50%">
+<td>
 
-#### ✨ Key Features
-- 👨‍🎓 **Comprehensive Student Portal**
-- 👨‍💼 **Advanced Admin Dashboard**
-- 💾 **Robust Database Management**
-- 🔄 **Dynamic Data Processing**
-- 📊 **Real-time Analytics**
+#### âœ¨ Key Features
+- ðŸ‘¨â€ðŸŽ“ **Comprehensive Student Portal**
+- ðŸ‘¨â€ðŸ’¼ **Advanced Admin Dashboard**
+- ðŸ’¾ **Robust Database Management**
+- ðŸ”„ **Dynamic Data Processing**
+- ðŸ“Š **Real-time Analytics**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
 
-[![View Code](https://img.shields.io/badge/💻_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris/university-management)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-10B981?style=for-the-badge)](https://github.com/UbaidBinWaris/university-management)
+<a href="$2"><img src="View Code" /></a>
+<a href="$2"><img src="Live Demo" /></a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 🏠 Interior Design E-commerce
-**🎯 Full-Stack Shopping Platform**
+### ðŸ  Interior Design E-commerce
+**ðŸŽ¯ Full-Stack Shopping Platform**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Commercial-DC2626?style=for-the-badge" />
 
-</div>
+</p>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td>
 
-#### 🛠️ Tech Stack
+#### ðŸ› ï¸ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Payment](https://img.shields.io/badge/-Payment-00BAE9?logo=stripe&logoColor=white&style=flat-square)
 
 </td>
-<td width="50%">
+<td>
 
-#### ✨ Key Features
-- 🛍️ **Advanced Product Catalog**
-- 🛒 **Smart Shopping Cart System**
-- 🔐 **Secure User Authentication**
-- 💳 **Payment Gateway Integration**
-- 📱 **Mobile-First Design**
+#### âœ¨ Key Features
+- ðŸ›ï¸ **Advanced Product Catalog**
+- ðŸ›’ **Smart Shopping Cart System**
+- ðŸ” **Secure User Authentication**
+- ðŸ’³ **Payment Gateway Integration**
+- ðŸ“± **Mobile-First Design**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
 
-[![View Code](https://img.shields.io/badge/💻_View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris/interior-ecommerce)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-10B981?style=for-the-badge)](https://github.com/UbaidBinWaris/interior-ecommerce)
+<a href="$2"><img src="View Code" /></a>
+<a href="$2"><img src="Live Demo" /></a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 🚀 Innovation Pipeline
+## ðŸš€ Innovation Pipeline
 
 <img src="https://img.shields.io/badge/Coming_Soon-2024-FF6B6B?style=for-the-badge&logo=rocket" />
 
-### 🔬 AI-Powered Analytics Dashboard
-**🎯 Next-Generation Data Intelligence**
+### ðŸ”¬ AI-Powered Analytics Dashboard
+**ðŸŽ¯ Next-Generation Data Intelligence**
 
-</div>
+</p>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td>
 
-#### 🛠️ Upcoming Tech Stack
+#### ðŸ› ï¸ Upcoming Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 
 </td>
-<td width="50%">
+<td>
 
-#### ✨ Planned Features
-- 🤖 **AI-Powered Data Insights**
-- 📊 **Real-time Analytics**
-- 🎯 **Predictive Modeling**
-- 🌐 **Interactive Dashboards**
-- 📈 **Performance Optimization**
+#### âœ¨ Planned Features
+- ðŸ¤– **AI-Powered Data Insights**
+- ðŸ“Š **Real-time Analytics**
+- ðŸŽ¯ **Predictive Modeling**
+- ðŸŒ **Interactive Dashboards**
+- ðŸ“ˆ **Performance Optimization**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
 
-[![Follow Progress](https://img.shields.io/badge/📊_Follow_Progress-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UbaidBinWaris)
+<a href="$2"><img src="Follow Progress" /></a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 📊 GitHub Analytics
+## ðŸ“Š GitHub Analytics
 
 <img src="https://github-profile-trophy.vercel.app/?username=UbaidBinWaris&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UbaidBinWaris&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidBinWaris&layout=compact&langs_count=8&hide_border=true&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=UbaidBinWaris&hide_border=true&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UbaidBinWaris&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=UbaidBinWaris&style=for-the-badge&color=6366F1" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/UbaidBinWaris?style=for-the-badge&color=10B981&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/UbaidBinWaris?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&logo=github" alt="Stars" />
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 🌍 Let's Connect & Collaborate
+## ðŸŒ Let's Connect & Collaborate
 
 <p>
   <a href="https://ubaidbinwaris.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/ðŸŒ_Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/ubaid-bin-waris">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/ðŸ’¼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/UbaidBinWaris">
-    <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/ðŸ’»_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p>
   <a href="mailto:ubaidbinwaris@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/ðŸ“§_Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/ubaidbinwaris">
-    <img src="https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/ðŸ¦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://discord.com/users/ubaidbinwaris">
-    <img src="https://img.shields.io/badge/💬_Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/ðŸ’¬_Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 💫 Current Focus
+### ðŸ’« Current Focus
 
 ```javascript
 const ubaid = {
@@ -713,21 +713,21 @@ const ubaid = {
     },
     currentlyLearning: ["AI/ML", "System Design", "Cloud Computing"],
     goals: ["Contributing to Open Source", "Building SaaS Products"],
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+    funFact: "I debug with console.log() and I'm proud of it! ðŸ›"
 };
 ```
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-### ✨ _"Code is like art, and every project is a canvas to create something impactful."_
+### âœ¨ _"Code is like art, and every project is a canvas to create something impactful."_
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" />
 
-**Thank you for visiting my profile! Let's build something amazing together! 🚀**
+**Thank you for visiting my profile! Let's build something amazing together! ðŸš€**
 
-</div>
+</p>
 | ![Python](https://img.shields.io/badge/Python-63B8B2?style=flat-square&logo=python&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-404040?style=flat-square&logo=n8n&logoColor=F5F5F5) | ![NumPy](https://img.shields.io/badge/NumPy-63B8B2?style=flat-square&logo=numpy&logoColor=white) |
 | TensorFlow, Scikit-learn Fundamentals | AI Agent & Bot Development | Pandas, Matplotlib, Seaborn, Plotly |
 | Natural Language Processing (NLP) | Workflow Automation & API Integrations | Data Analysis & Visualization |
@@ -735,8 +735,8 @@ const ubaid = {
 
 ---
 
-### 🎨 **Design & User Experience**
-🎭 **UX/UI Design Skills**
+### ðŸŽ¨ **Design & User Experience**
+ðŸŽ­ **UX/UI Design Skills**
 
 | **Design Tools** | **UX Methodology** | **Accessibility** |
 |------------------|-------------------|-------------------|
@@ -747,8 +747,8 @@ const ubaid = {
 
 ---
 
-### 🔒 **Cybersecurity & Networking**
-🛡️ **Security Expertise**
+### ðŸ”’ **Cybersecurity & Networking**
+ðŸ›¡ï¸ **Security Expertise**
 
 | **Network Security** | **Ethical Hacking** | **Protocols & Standards** |
 |---------------------|---------------------|---------------------------|
@@ -759,8 +759,8 @@ const ubaid = {
 
 ---
 
-### 📊 **Project Management & Collaboration**
-🤝 **Leadership Skills**
+### ðŸ“Š **Project Management & Collaboration**
+ðŸ¤ **Leadership Skills**
 
 | **Methodologies** | **Tools & Platforms** | **Communication** |
 |-------------------|----------------------|-------------------|
@@ -771,30 +771,30 @@ const ubaid = {
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 🎖️ **Professional Certifications & Achievements**
+### ðŸŽ–ï¸ **Professional Certifications & Achievements**
 
 ![Full Stack Expert](https://img.shields.io/badge/Full_Stack-Expert_Level-63B8B2?style=for-the-badge&labelColor=0A1930)
 ![System Programming](https://img.shields.io/badge/System_Programming-Advanced-404040?style=for-the-badge&labelColor=F5F5F5)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Proficient-63B8B2?style=for-the-badge&labelColor=0A1930)
 ![AI Automation](https://img.shields.io/badge/AI_Automation-Specialist-404040?style=for-the-badge&labelColor=F5F5F5)
 
-### 📈 **Continuous Learning & Innovation**
+### ðŸ“ˆ **Continuous Learning & Innovation**
 
 *Always staying ahead of the technology curve through continuous skill development and practical application*
 
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Analytics  
+## ðŸ“Š GitHub Analytics  
 
-<div align="center">
+<p align="center">
 
-### 📈 **Code Journey & Impact**
+### ðŸ“ˆ **Code Journey & Impact**
 
-</div>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidwaris&theme=dark&background=0A1930&border=63B8B2&stroke=63B8B2&ring=63B8B2&fire=63B8B2&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=63B8B2&sideNums=404040&dates=404040&hide_border=true" width="49%" />
@@ -808,15 +808,15 @@ const ubaid = {
 
 ---
 
-## 🌐 Connect & Collaborate
+## ðŸŒ Connect & Collaborate
 
-<div align="center">
+<p align="center">
 
-### 💬 **Let's Build Something Amazing Together!**
+### ðŸ’¬ **Let's Build Something Amazing Together!**
 
 **Open for collaborations, freelance projects, and tech discussions**
 
-</div>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ubaidwaris"><img src="https://img.shields.io/badge/LinkedIn-63B8B2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1930"/></a>
@@ -827,63 +827,63 @@ const ubaid = {
   <a href="https://discord.gg/ubaidwaris"><img src="https://img.shields.io/badge/Discord-63B8B2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A1930"/></a>
 </p>
 
-<div align="center">
+<p align="center">
 
-### 📝 **Available For:**
-- 🚀 **Freelance Web Development Projects**
-- 🎮 **Game Development Collaborations**
-- 🤝 **Open Source Contributions**
-- 💼 **Full-time Opportunities**
-- 🎓 **Mentoring & Code Reviews**
+### ðŸ“ **Available For:**
+- ðŸš€ **Freelance Web Development Projects**
+- ðŸŽ® **Game Development Collaborations**
+- ðŸ¤ **Open Source Contributions**
+- ðŸ’¼ **Full-time Opportunities**
+- ðŸŽ“ **Mentoring & Code Reviews**
 
-</div>
+</p>
 
 ---
 
-## 🎯 Fun Facts & Personal Touch
+## ðŸŽ¯ Fun Facts & Personal Touch
 
-<div align="center">
+<p align="center">
 
-### 🌟 **What Drives Me**
+### ðŸŒŸ **What Drives Me**
 
-</div>
+</p>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
-  <h4>💡 <strong>Development Philosophy</strong></h4>
-  <p>🔥 <strong>Code Quality Enthusiast</strong><br/>Clean code is not just functional, but beautiful</p>
-  <p>🌱 <strong>Continuous Learner</strong><br/>Always exploring new technologies and frameworks</p>
-  <p>🌍 <strong>Open Source Advocate</strong><br/>Contributing to the global developer community</p>
-  <p>🔒 <strong>Security First</strong><br/>Implementing secure coding practices in every project</p>
+<td align="center">
+  <h4>ðŸ’¡ <strong>Development Philosophy</strong></h4>
+  <p>ðŸ”¥ <strong>Code Quality Enthusiast</strong><br/>Clean code is not just functional, but beautiful</p>
+  <p>ðŸŒ± <strong>Continuous Learner</strong><br/>Always exploring new technologies and frameworks</p>
+  <p>ðŸŒ <strong>Open Source Advocate</strong><br/>Contributing to the global developer community</p>
+  <p>ðŸ”’ <strong>Security First</strong><br/>Implementing secure coding practices in every project</p>
 </td>
-<td align="center" width="50%">
-  <h4>⚡ <strong>Daily Inspirations</strong></h4>
-  <p>☕ <strong>Coffee-Powered Developer</strong><br/>Best code is written with a cup of coffee</p>
-  <p>🎵 <strong>Music Lover</strong><br/>Coding with background music enhances creativity</p>
-  <p>💻 <strong>System Architecture Enthusiast</strong><br/>Love designing efficient system architectures</p>
-  <p>🐧 <strong>Linux Enthusiast</strong><br/>Passionate about open source and Linux customization</p>
+<td align="center">
+  <h4>âš¡ <strong>Daily Inspirations</strong></h4>
+  <p>â˜• <strong>Coffee-Powered Developer</strong><br/>Best code is written with a cup of coffee</p>
+  <p>ðŸŽµ <strong>Music Lover</strong><br/>Coding with background music enhances creativity</p>
+  <p>ðŸ’» <strong>System Architecture Enthusiast</strong><br/>Love designing efficient system architectures</p>
+  <p>ðŸ§ <strong>Linux Enthusiast</strong><br/>Passionate about open source and Linux customization</p>
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
 
-### 💭 **Developer Quote**
+### ðŸ’­ **Developer Quote**
 *"The best way to predict the future is to create it."* - Alan Kay
 
-### 🏠 **Based in Islamabad, Pakistan** 🇵🇰
+### ðŸ  **Based in Islamabad, Pakistan** ðŸ‡µðŸ‡°
 **Available for remote work and global collaborations**
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### 🤝 **Let's Connect & Create Something Amazing!**
+### ðŸ¤ **Let's Connect & Create Something Amazing!**
 
-⭐️ **Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/ubaidwaris)**
+â­ï¸ **Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/ubaidwaris)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-63B8B2?style=for-the-badge&logo=heart&logoColor=white&labelColor=0A1930" />
@@ -893,6 +893,7 @@ const ubaid = {
 
 ---
 
-**Profile Keywords:** Full Stack Developer • System Developer • React Developer • Node.js Developer • C++ Programmer • JavaScript Expert • Web Development • Software Engineering • Open Source • Tech Innovation • AI Automation • Linux Administrator • Assembly Programming • DSA Expert • Cybersecurity • Database Design • Islamabad Pakistan • Remote Work
+**Profile Keywords:** Full Stack Developer â€¢ System Developer â€¢ React Developer â€¢ Node.js Developer â€¢ C++ Programmer â€¢ JavaScript Expert â€¢ Web Development â€¢ Software Engineering â€¢ Open Source â€¢ Tech Innovation â€¢ AI Automation â€¢ Linux Administrator â€¢ Assembly Programming â€¢ DSA Expert â€¢ Cybersecurity â€¢ Database Design â€¢ Islamabad Pakistan â€¢ Remote Work
 
-</div>
+</p>
+
