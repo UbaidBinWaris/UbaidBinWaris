@@ -1,12 +1,12 @@
 ﻿<p align="center">
 
-# ðŸ‘‹ Hi, I'm Ubaid Bin Waris
+# 👋 Hi, I'm Ubaid Bin Waris
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
 <br/>
 
-### ðŸ† Showcasing Innovation Through Code
+### 🏆 Showcasing Innovation Through Code
 *From real-time applications to system-level programming - every project tells a story of innovation*
 
 <br/>
@@ -23,22 +23,22 @@
 
 <p align="center">
 
-## ðŸŒŸ Crafting Digital Solutions That Make an Impact
+## ✨ Crafting Digital Solutions That Make an Impact
 
 *Passionate about building scalable **web applications**, modern **UIs**, and exploring **system-level programming***
 
 </p>
 
-### ðŸš€ About Me
+### 🚀 About Me
 
 <img align="right" alt="Coding" style="width:300px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- ðŸŽ“ **Computer Science Student** with a passion for innovation
-- ðŸŒ Specializing in **Next.js, React, Node.js, and MongoDB**
-- âš¡ Exploring **Operating Systems, Game Development, and AI**
-- ðŸ’¡ **Linux Enthusiast** (Ubuntu, Fedora, Arch, Zorin)
-- ðŸ“š Expert in **system-level projects** and **database systems**
-- ðŸ”¥ Strong foundation in **C++ (DSA)** and **Assembly**
+- 🎓 **Computer Science Student** with a passion for innovation
+- 🌐 Specializing in **Next.js, React, Node.js, and MongoDB**
+- ⚡️ Exploring **Operating Systems, Game Development, and AI**
+- 💡 **Linux Enthusiast** (Ubuntu, Fedora, Arch, Zorin)
+- 📚 Expert in **system-level projects** and **database systems**
+- 🔥 Strong foundation in **C++ (DSA)** and **Assembly**
 
 <br clear="right"/>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
 
-## ðŸ› ï¸ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 *Mastering the tools that build tomorrow's digital solutions*
 
@@ -54,10 +54,10 @@
 
 <p align="center">
 
-### ðŸŒ Frontend Technologies
+### 🌐 Frontend Technologies
 
-<table align="center">
-<tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
+<tr style="background-color: transparent; border: none;">
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width:50px;"/>
 <br/>
@@ -155,10 +155,10 @@
 
 ---
 
-### âš™ï¸ Backend & Database
+### ⚙️ Backend & Database
 
-<table align="center">
-<tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
+<tr style="background-color: transparent; border: none;">
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width:50px;"/>
 <br/>
@@ -256,10 +256,10 @@
 
 ---
 
-### ðŸ”§ Tools & DevOps
+### 🔧 Tools & DevOps
 
-<table align="center">
-<tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
+<tr style="background-color: transparent; border: none;">
 <td align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="width:50px;"/>
 <br/>
@@ -359,7 +359,7 @@
 
 <p align="center">
 
-### ðŸ“Š Skill Level Legend
+### 📊 Skill Level Legend
 
 <img src="https://img.shields.io/badge/Expert-Professional_Level-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Advanced-Production_Ready-06B6D4?style=for-the-badge" />
@@ -373,7 +373,7 @@
 
 <p align="center">
 
-## ðŸ† Featured Projects Portfolio
+## 🏆 Featured Projects Portfolio
 
 *Building tomorrow's solutions with today's technology*
 
@@ -381,19 +381,19 @@
 
 <p align="center">
 
-### ðŸ’¬ Echo Chat Application
-**ðŸŽ¯ Professional Client Project**
+### 💬 Echo Chat Application
+**🎯 Professional Client Project**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Client_Work-6366F1?style=for-the-badge" />
 
 </p>
 
-<table align="center">
-<tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
+<tr style="background-color: transparent; border: none;">
 <td>
 
-#### ðŸ› ï¸ Tech Stack
+#### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=flat-square)
@@ -402,12 +402,12 @@
 </td>
 <td>
 
-#### âœ¨ Key Features
-- ðŸ’¬ **Real-time Messaging System**
-- ðŸ” **Secure User Authentication**  
-- ðŸ  **Multiple Chat Rooms**
-- ðŸ“± **Fully Mobile Responsive**
-- ðŸ’¾ **Message History & Storage**
+#### ✨ Key Features
+- 💬 **Real-time Messaging System**
+- 🔐 **Secure User Authentication**  
+- 🏠 **Multiple Chat Rooms**
+- 📱 **Fully Mobile Responsive**
+- 💾 **Message History & Storage**
 
 </td>
 </tr>
@@ -424,19 +424,19 @@
 
 <p align="center">
 
-### ðŸŽµ Spotify Clone Platform
-**ðŸŽ¯ Music Streaming Application**
+### 🎵 Spotify Clone Platform
+**🎯 Music Streaming Application**
 
 <img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Personal-F59E0B?style=for-the-badge" />
 
 </p>
 
-<table align="center">
-<tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
+<tr style="background-color: transparent; border: none;">
 <td>
 
-#### ðŸ› ï¸ Tech Stack
+#### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
@@ -445,12 +445,12 @@
 </td>
 <td>
 
-#### âœ¨ Key Features
-- ðŸŽ¶ **Custom Audio Playbar**
-- ðŸŽµ **Interactive Sound Controls**
-- âš¡ **Smooth UI Animations**
-- ðŸ“‹ **Playlist Management**
-- ðŸŽ§ **Audio Streaming Engine**
+#### ✨ Key Features
+- 🎶 **Custom Audio Playbar**
+- 🎵 **Interactive Sound Controls**
+- ⚡️ **Smooth UI Animations**
+- 📋 **Playlist Management**
+- 🎧 **Audio Streaming Engine**
 
 </td>
 </tr>
@@ -467,8 +467,8 @@
 
 <p align="center">
 
-### ðŸš“ Smart Car Challan System
-**ðŸŽ¯ C++ System Application**
+### 🚗 Smart Car Challan System
+**🎯 C++ System Application**
 
 <img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
@@ -479,7 +479,7 @@
 <tr>
 <td>
 
-#### ðŸ› ï¸ Tech Stack
+#### 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![OOP](https://img.shields.io/badge/-OOP-FF6B6B?logo=code&logoColor=white&style=flat-square)
 ![Encryption](https://img.shields.io/badge/-Encryption-4ECDC4?logo=shield&logoColor=white&style=flat-square)
@@ -488,12 +488,12 @@
 </td>
 <td>
 
-#### âœ¨ Key Features
-- ðŸš— **Vehicle Violation Tracking**
-- ðŸ”’ **Advanced Data Encryption**
-- ðŸ“ **Multi-File Architecture**
-- âš™ï¸ **Object-Oriented Design**
-- ðŸ’¾ **Secure File Management**
+#### ✨ Key Features
+- 🚓 **Vehicle Violation Tracking**
+- 🔒 **Advanced Data Encryption**
+- 🗃️ **Multi-File Architecture**
+- ⚙️ **Object-Oriented Design**
+- 💾 **Secure File Management**
 
 </td>
 </tr>
@@ -510,8 +510,8 @@
 
 <p align="center">
 
-### ðŸŽ“ University Management System
-**ðŸŽ¯ Next.js Web Application**
+### 🎓 University Management System
+**🎯 Next.js Web Application**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
@@ -522,7 +522,7 @@
 <tr>
 <td>
 
-#### ðŸ› ï¸ Tech Stack
+#### 🛠️ Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![API](https://img.shields.io/badge/-API-FF6B6B?logo=fastapi&logoColor=white&style=flat-square)
@@ -531,12 +531,12 @@
 </td>
 <td>
 
-#### âœ¨ Key Features
-- ðŸ‘¨â€ðŸŽ“ **Comprehensive Student Portal**
-- ðŸ‘¨â€ðŸ’¼ **Advanced Admin Dashboard**
-- ðŸ’¾ **Robust Database Management**
-- ðŸ”„ **Dynamic Data Processing**
-- ðŸ“Š **Real-time Analytics**
+#### ✨ Key Features
+- 👨‍🎓 **Comprehensive Student Portal**
+- 👨‍💼 **Advanced Admin Dashboard**
+- 💾 **Robust Database Management**
+- 🔄 **Dynamic Data Processing**
+- 📊 **Real-time Analytics**
 
 </td>
 </tr>
@@ -553,19 +553,19 @@
 
 <p align="center">
 
-### ðŸ  Interior Design E-commerce
-**ðŸŽ¯ Full-Stack Shopping Platform**
+### 🏠 Interior Design E-commerce
+**🎯 Full-Stack Shopping Platform**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Commercial-DC2626?style=for-the-badge" />
 
 </p>
 
-<table align="center">
-<tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
+<tr style="background-color: transparent; border: none;">
 <td>
 
-#### ðŸ› ï¸ Tech Stack
+#### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
@@ -574,12 +574,12 @@
 </td>
 <td>
 
-#### âœ¨ Key Features
-- ðŸ›ï¸ **Advanced Product Catalog**
-- ðŸ›’ **Smart Shopping Cart System**
-- ðŸ” **Secure User Authentication**
-- ðŸ’³ **Payment Gateway Integration**
-- ðŸ“± **Mobile-First Design**
+#### ✨ Key Features
+- 🛋️ **Advanced Product Catalog**
+- 🛒 **Smart Shopping Cart System**
+- 🔐 **Secure User Authentication**
+- 💳 **Payment Gateway Integration**
+- 📱 **Mobile-First Design**
 
 </td>
 </tr>
@@ -596,20 +596,20 @@
 
 <p align="center">
 
-## ðŸš€ Innovation Pipeline
+## 🚀 Innovation Pipeline
 
 <img src="https://img.shields.io/badge/Coming_Soon-2024-FF6B6B?style=for-the-badge&logo=rocket" />
 
-### ðŸ”¬ AI-Powered Analytics Dashboard
-**ðŸŽ¯ Next-Generation Data Intelligence**
+### 🔬 AI-Powered Analytics Dashboard
+**🎯 Next-Generation Data Intelligence**
 
 </p>
 
-<table align="center">
-<tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
+<tr style="background-color: transparent; border: none;">
 <td>
 
-#### ðŸ› ï¸ Upcoming Tech Stack
+#### 🛠️ Upcoming Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
@@ -618,12 +618,12 @@
 </td>
 <td>
 
-#### âœ¨ Planned Features
-- ðŸ¤– **AI-Powered Data Insights**
-- ðŸ“Š **Real-time Analytics**
-- ðŸŽ¯ **Predictive Modeling**
-- ðŸŒ **Interactive Dashboards**
-- ðŸ“ˆ **Performance Optimization**
+#### ✨ Planned Features
+- 🤖 **AI-Powered Data Insights**
+- 📊 **Real-time Analytics**
+- 🎯 **Predictive Modeling**
+- 🌐 **Interactive Dashboards**
+- 📈 **Performance Optimization**
 
 </td>
 </tr>
@@ -639,7 +639,7 @@
 
 <p align="center">
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <img src="https://github-profile-trophy.vercel.app/?username=UbaidBinWaris&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
@@ -668,29 +668,29 @@
 
 <p align="center">
 
-## ðŸŒ Let's Connect & Collaborate
+## 🌍 Let's Connect & Collaborate
 
 <p>
   <a href="https://ubaidbinwaris.dev">
-    <img src="https://img.shields.io/badge/ðŸŒ_Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/ubaid-bin-waris">
-    <img src="https://img.shields.io/badge/ðŸ’¼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/UbaidBinWaris">
-    <img src="https://img.shields.io/badge/ðŸ’»_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p>
   <a href="mailto:ubaidbinwaris@gmail.com">
-    <img src="https://img.shields.io/badge/ðŸ“§_Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/ubaidbinwaris">
-    <img src="https://img.shields.io/badge/ðŸ¦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://discord.com/users/ubaidbinwaris">
-    <img src="https://img.shields.io/badge/ðŸ’¬_Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/💬_Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -700,7 +700,7 @@
 
 <p align="center">
 
-### ðŸ’« Current Focus
+### 💫 Current Focus
 
 ```javascript
 const ubaid = {
@@ -713,7 +713,7 @@ const ubaid = {
     },
     currentlyLearning: ["AI/ML", "System Design", "Cloud Computing"],
     goals: ["Contributing to Open Source", "Building SaaS Products"],
-    funFact: "I debug with console.log() and I'm proud of it! ðŸ›"
+    funFact: "I debug with console.log() and I'm proud of it! 🐛"
 };
 ```
 
@@ -721,11 +721,11 @@ const ubaid = {
 
 <p align="center">
 
-### âœ¨ _"Code is like art, and every project is a canvas to create something impactful."_
+### ✨ _"Code is like art, and every project is a canvas to create something impactful."_
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" />
 
-**Thank you for visiting my profile! Let's build something amazing together! ðŸš€**
+**Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
 </p>
 | ![Python](https://img.shields.io/badge/Python-63B8B2?style=flat-square&logo=python&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-404040?style=flat-square&logo=n8n&logoColor=F5F5F5) | ![NumPy](https://img.shields.io/badge/NumPy-63B8B2?style=flat-square&logo=numpy&logoColor=white) |
@@ -735,8 +735,8 @@ const ubaid = {
 
 ---
 
-### ðŸŽ¨ **Design & User Experience**
-ðŸŽ­ **UX/UI Design Skills**
+### 🎨 **Design & User Experience**
+🖌️ **UX/UI Design Skills**
 
 | **Design Tools** | **UX Methodology** | **Accessibility** |
 |------------------|-------------------|-------------------|
@@ -747,8 +747,8 @@ const ubaid = {
 
 ---
 
-### ðŸ”’ **Cybersecurity & Networking**
-ðŸ›¡ï¸ **Security Expertise**
+### 🔒 **Cybersecurity & Networking**
+🛡️ **Security Expertise**
 
 | **Network Security** | **Ethical Hacking** | **Protocols & Standards** |
 |---------------------|---------------------|---------------------------|
@@ -759,8 +759,8 @@ const ubaid = {
 
 ---
 
-### ðŸ“Š **Project Management & Collaboration**
-ðŸ¤ **Leadership Skills**
+### 📊 **Project Management & Collaboration**
+🤝 **Leadership Skills**
 
 | **Methodologies** | **Tools & Platforms** | **Communication** |
 |-------------------|----------------------|-------------------|
@@ -773,14 +773,14 @@ const ubaid = {
 
 <p align="center">
 
-### ðŸŽ–ï¸ **Professional Certifications & Achievements**
+### 🏅 **Professional Certifications & Achievements**
 
 ![Full Stack Expert](https://img.shields.io/badge/Full_Stack-Expert_Level-63B8B2?style=for-the-badge&labelColor=0A1930)
 ![System Programming](https://img.shields.io/badge/System_Programming-Advanced-404040?style=for-the-badge&labelColor=F5F5F5)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Proficient-63B8B2?style=for-the-badge&labelColor=0A1930)
 ![AI Automation](https://img.shields.io/badge/AI_Automation-Specialist-404040?style=for-the-badge&labelColor=F5F5F5)
 
-### ðŸ“ˆ **Continuous Learning & Innovation**
+### 📈 **Continuous Learning & Innovation**
 
 *Always staying ahead of the technology curve through continuous skill development and practical application*
 
@@ -788,31 +788,31 @@ const ubaid = {
 
 ---
 
-## ðŸ“Š GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <p align="center">
 
-### ðŸ“ˆ **Code Journey & Impact**
+### 📈 **Code Journey & Impact**
 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidwaris&theme=dark&background=0A1930&border=63B8B2&stroke=63B8B2&ring=63B8B2&fire=63B8B2&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=63B8B2&sideNums=404040&dates=404040&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaidwaris&show_icons=true&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&icon_color=63B8B2&border_color=63B8B2&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidwaris&theme=dark&background=0A1930&border=63B8B2&stroke=63B8B2&ring=63B8B2&fire=63B8B2&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=63B8B2&sideNums=404040&dates=404040&hide_border=true" style="width:49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ubaidwaris&show_icons=true&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&icon_color=63B8B2&border_color=63B8B2&hide_border=true" style="width:49%;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidwaris&layout=compact&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&border_color=63B8B2&hide_border=true" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ubaidwaris&theme=discord&no-frame=true&column=4&margin-w=5&margin-h=5" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidwaris&layout=compact&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&border_color=63B8B2&hide_border=true" style="width:49%;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ubaidwaris&theme=discord&no-frame=true&column=4&margin-w=5&margin-h=5" style="width:49%;" />
 </p>
 
 ---
 
-## ðŸŒ Connect & Collaborate
+## 🌐 Connect & Collaborate
 
 <p align="center">
 
-### ðŸ’¬ **Let's Build Something Amazing Together!**
+### 💬 **Let's Build Something Amazing Together!**
 
 **Open for collaborations, freelance projects, and tech discussions**
 
@@ -829,50 +829,50 @@ const ubaid = {
 
 <p align="center">
 
-### ðŸ“ **Available For:**
-- ðŸš€ **Freelance Web Development Projects**
-- ðŸŽ® **Game Development Collaborations**
-- ðŸ¤ **Open Source Contributions**
-- ðŸ’¼ **Full-time Opportunities**
-- ðŸŽ“ **Mentoring & Code Reviews**
+###  disponibilidad **Available For:**
+- 🚀 **Freelance Web Development Projects**
+- 🎮 **Game Development Collaborations**
+- 🤝 **Open Source Contributions**
+- 💼 **Full-time Opportunities**
+- 🎓 **Mentoring & Code Reviews**
 
 </p>
 
 ---
 
-## ðŸŽ¯ Fun Facts & Personal Touch
+## 🎯 Fun Facts & Personal Touch
 
 <p align="center">
 
-### ðŸŒŸ **What Drives Me**
+### 🌟 **What Drives Me**
 
 </p>
 
-<table align="center">
-<tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
+<tr style="background-color: transparent; border: none;">
 <td align="center">
-  <h4>ðŸ’¡ <strong>Development Philosophy</strong></h4>
-  <p>ðŸ”¥ <strong>Code Quality Enthusiast</strong><br/>Clean code is not just functional, but beautiful</p>
-  <p>ðŸŒ± <strong>Continuous Learner</strong><br/>Always exploring new technologies and frameworks</p>
-  <p>ðŸŒ <strong>Open Source Advocate</strong><br/>Contributing to the global developer community</p>
-  <p>ðŸ”’ <strong>Security First</strong><br/>Implementing secure coding practices in every project</p>
+  <h4>💡 <strong>Development Philosophy</strong></h4>
+  <p>🔥 <strong>Code Quality Enthusiast</strong><br/>Clean code is not just functional, but beautiful</p>
+  <p>🌱 <strong>Continuous Learner</strong><br/>Always exploring new technologies and frameworks</p>
+  <p>🌍 <strong>Open Source Advocate</strong><br/>Contributing to the global developer community</p>
+  <p>🔒 <strong>Security First</strong><br/>Implementing secure coding practices in every project</p>
 </td>
 <td align="center">
-  <h4>âš¡ <strong>Daily Inspirations</strong></h4>
-  <p>â˜• <strong>Coffee-Powered Developer</strong><br/>Best code is written with a cup of coffee</p>
-  <p>ðŸŽµ <strong>Music Lover</strong><br/>Coding with background music enhances creativity</p>
-  <p>ðŸ’» <strong>System Architecture Enthusiast</strong><br/>Love designing efficient system architectures</p>
-  <p>ðŸ§ <strong>Linux Enthusiast</strong><br/>Passionate about open source and Linux customization</p>
+  <h4>⚡ <strong>Daily Inspirations</strong></h4>
+  <p>☕ <strong>Coffee-Powered Developer</strong><br/>Best code is written with a cup of coffee</p>
+  <p>🎵 <strong>Music Lover</strong><br/>Coding with background music enhances creativity</p>
+  <p>💻 <strong>System Architecture Enthusiast</strong><br/>Love designing efficient system architectures</p>
+  <p>🐧 <strong>Linux Enthusiast</strong><br/>Passionate about open source and Linux customization</p>
 </td>
 </tr>
 </table>
 
 <p align="center">
 
-### ðŸ’­ **Developer Quote**
+### 💭 **Developer Quote**
 *"The best way to predict the future is to create it."* - Alan Kay
 
-### ðŸ  **Based in Islamabad, Pakistan** ðŸ‡µðŸ‡°
+### 🏠 **Based in Islamabad, Pakistan** 🇵🇰
 **Available for remote work and global collaborations**
 
 </p>
@@ -881,9 +881,9 @@ const ubaid = {
 
 <p align="center">
 
-### ðŸ¤ **Let's Connect & Create Something Amazing!**
+### 🤝 **Let's Connect & Create Something Amazing!**
 
-â­ï¸ **Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/ubaidwaris)**
+⭐ **Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/ubaidwaris)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-63B8B2?style=for-the-badge&logo=heart&logoColor=white&labelColor=0A1930" />
@@ -893,7 +893,7 @@ const ubaid = {
 
 ---
 
-**Profile Keywords:** Full Stack Developer â€¢ System Developer â€¢ React Developer â€¢ Node.js Developer â€¢ C++ Programmer â€¢ JavaScript Expert â€¢ Web Development â€¢ Software Engineering â€¢ Open Source â€¢ Tech Innovation â€¢ AI Automation â€¢ Linux Administrator â€¢ Assembly Programming â€¢ DSA Expert â€¢ Cybersecurity â€¢ Database Design â€¢ Islamabad Pakistan â€¢ Remote Work
+**Profile Keywords:** Full Stack Developer • System Developer • React Developer • Node.js Developer • C++ Programmer • JavaScript Expert • Web Development • Software Engineering • Open Source • Tech Innovation • AI Automation • Linux Administrator • Assembly Programming • DSA Expert • Cybersecurity • Database Design • Islamabad Pakistan • Remote Work
 
 </p>
 
