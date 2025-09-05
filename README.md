@@ -6,6 +6,10 @@
 
 <br/>
 
+<p align="center">
+  <img src="assets/banner.png" alt="Banner">
+</p>
+
 ### 🏆 Showcasing Innovation Through Code
 *From real-time applications to system-level programming - every project tells a story of innovation*
 
@@ -31,7 +35,7 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="Coding" style="width:300px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" style="width:300px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlN2FkY2I4MjA5NTYyYjQzZWI5YjI3ZmMzYjI3ZDE2YjA3YjM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 **Computer Science Student** with a passion for innovation
 - 🌐 Specializing in **Next.js, React, Node.js, and MongoDB**
@@ -639,155 +643,6 @@
 
 <p align="center">
 
-## 📊 GitHub Analytics
-
-<img src="https://github-profile-trophy.vercel.app/?username=UbaidBinWaris&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UbaidBinWaris&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidBinWaris&layout=compact&langs_count=8&hide_border=true&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=UbaidBinWaris&hide_border=true&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UbaidBinWaris&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UbaidBinWaris&style=for-the-badge&color=6366F1" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/UbaidBinWaris?style=for-the-badge&color=10B981&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/UbaidBinWaris?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&logo=github" alt="Stars" />
-</p>
-
----
-
-<p align="center">
-
-## 🌍 Let's Connect & Collaborate
-
-<p>
-  <a href="https://ubaidbinwaris.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/ubaid-bin-waris">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/UbaidBinWaris">
-    <img src="https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p>
-  <a href="mailto:ubaidbinwaris@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/ubaidbinwaris">
-    <img src="https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.com/users/ubaidbinwaris">
-    <img src="https://img.shields.io/badge/💬_Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-</p>
-
----
-
-<p align="center">
-
-### 💫 Current Focus
-
-```javascript
-const ubaid = {
-    code: ["JavaScript", "TypeScript", "C++", "Python"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TailwindCSS"],
-        backEnd: ["Node.js", "Express", "FastAPI"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "Docker", "Linux", "VS Code"]
-    },
-    currentlyLearning: ["AI/ML", "System Design", "Cloud Computing"],
-    goals: ["Contributing to Open Source", "Building SaaS Products"],
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
-```
-
-</p>
-
-<p align="center">
-
-### ✨ _"Code is like art, and every project is a canvas to create something impactful."_
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" />
-
-**Thank you for visiting my profile! Let's build something amazing together! 🚀**
-
-</p>
-| ![Python](https://img.shields.io/badge/Python-63B8B2?style=flat-square&logo=python&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-404040?style=flat-square&logo=n8n&logoColor=F5F5F5) | ![NumPy](https://img.shields.io/badge/NumPy-63B8B2?style=flat-square&logo=numpy&logoColor=white) |
-| TensorFlow, Scikit-learn Fundamentals | AI Agent & Bot Development | Pandas, Matplotlib, Seaborn, Plotly |
-| Natural Language Processing (NLP) | Workflow Automation & API Integrations | Data Analysis & Visualization |
-| Computer Vision Basics | Webhook & Event-Driven Architecture | Statistical Analysis & Pattern Recognition |
-
----
-
-### 🎨 **Design & User Experience**
-🖌️ **UX/UI Design Skills**
-
-| **Design Tools** | **UX Methodology** | **Accessibility** |
-|------------------|-------------------|-------------------|
-| ![Figma](https://img.shields.io/badge/Figma-63B8B2?style=flat-square&logo=figma&logoColor=white) | Human-Centered Design & Usability Testing | WCAG Standards & Inclusive Design |
-| Adobe XD, Canva, Sketch | Wireframing & Interactive Prototyping | Screen Reader Compatibility |
-| Branding & Visual Identity | User Journey Mapping & Information Architecture | Color Contrast & Typography Optimization |
-| Design Systems & Style Guides | A/B Testing & User Research | Keyboard Navigation & Focus Management |
-
----
-
-### 🔒 **Cybersecurity & Networking**
-🛡️ **Security Expertise**
-
-| **Network Security** | **Ethical Hacking** | **Protocols & Standards** |
-|---------------------|---------------------|---------------------------|
-| ![Security](https://img.shields.io/badge/Network_Security-404040?style=flat-square&logo=security&logoColor=F5F5F5) | Vulnerability Assessment & Penetration Testing | TCP/IP, HTTP/HTTPS, DNS Configuration |
-| Firewall Configuration & Management | OWASP Top 10 Security Practices | Load Balancers & Reverse Proxy Setup |
-| VPN, Proxy & Anonymity Tools | Secure Coding & Threat Mitigation | SSL/TLS Certificate Management |
-| Intrusion Detection Systems (IDS) | Social Engineering Awareness | Network Monitoring & Traffic Analysis |
-
----
-
-### 📊 **Project Management & Collaboration**
-🤝 **Leadership Skills**
-
-| **Methodologies** | **Tools & Platforms** | **Communication** |
-|-------------------|----------------------|-------------------|
-| ![Agile](https://img.shields.io/badge/Agile-63B8B2?style=flat-square&logo=agile&logoColor=white) | ![Git](https://img.shields.io/badge/Git-404040?style=flat-square&logo=git&logoColor=F5F5F5) | Client Communication & Requirement Analysis |
-| Scrum, Kanban Methodologies | GitHub, GitLab, Bitbucket | Technical Documentation & Writing |
-| Sprint Planning & Retrospectives | Jira, Trello, Asana | Cross-Functional Team Leadership |
-| Risk Management & Quality Assurance | Slack, Discord, Notion | Stakeholder Management & Reporting |
-
----
-
-<p align="center">
-
-### 🏅 **Professional Certifications & Achievements**
-
-![Full Stack Expert](https://img.shields.io/badge/Full_Stack-Expert_Level-63B8B2?style=for-the-badge&labelColor=0A1930)
-![System Programming](https://img.shields.io/badge/System_Programming-Advanced-404040?style=for-the-badge&labelColor=F5F5F5)
-![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-Proficient-63B8B2?style=for-the-badge&labelColor=0A1930)
-![AI Automation](https://img.shields.io/badge/AI_Automation-Specialist-404040?style=for-the-badge&labelColor=F5F5F5)
-
-### 📈 **Continuous Learning & Innovation**
-
-*Always staying ahead of the technology curve through continuous skill development and practical application*
-
-</p>
-
----
-
 ## 📊 GitHub Analytics  
 
 <p align="center">
@@ -797,13 +652,13 @@ const ubaid = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidwaris&theme=dark&background=0A1930&border=63B8B2&stroke=63B8B2&ring=63B8B2&fire=63B8B2&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=63B8B2&sideNums=404040&dates=404040&hide_border=true" style="width:49%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaidwaris&show_icons=true&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&icon_color=63B8B2&border_color=63B8B2&hide_border=true" style="width:49%;" />
+  <img src="https://streak-stats.demolab.com/?user=UbaidBinWaris&theme=dark&background=0A1930&border=63B8B2&stroke=63B8B2&ring=63B8B2&fire=63B8B2&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=63B8B2&sideNums=404040&dates=404040&hide_border=true" style="width:49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UbaidBinWaris&show_icons=true&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&icon_color=63B8B2&border_color=63B8B2&hide_border=true" style="width:49%;" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidwaris&layout=compact&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&border_color=63B8B2&hide_border=true" style="width:49%;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ubaidwaris&theme=discord&no-frame=true&column=4&margin-w=5&margin-h=5" style="width:49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UbaidBinWaris&layout=compact&theme=dark&bg_color=0A1930&title_color=63B8B2&text_color=F5F5F5&border_color=63B8B2&hide_border=true" style="width:49%;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UbaidBinWaris&theme=discord&no-frame=true&column=4&margin-w=5&margin-h=5" style="width:49%;" />
 </p>
 
 ---
@@ -825,11 +680,13 @@ const ubaid = {
   <a href="https://twitter.com/ubaidwaris"><img src="https://img.shields.io/badge/Twitter-404040?style=for-the-badge&logo=twitter&logoColor=F5F5F5"/></a>
   <a href="https://dev.to/ubaidwaris"><img src="https://img.shields.io/badge/Dev.to-0A1930?style=for-the-badge&logo=devdotto&logoColor=63B8B2"/></a>
   <a href="https://discord.gg/ubaidwaris"><img src="https://img.shields.io/badge/Discord-63B8B2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A1930"/></a>
+  <a href="https://www.upwork.com/freelancers/your-profile"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/your-username"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 </p>
 
 <p align="center">
 
-###  disponibilidad **Available For:**
+###  **Available For:**
 - 🚀 **Freelance Web Development Projects**
 - 🎮 **Game Development Collaborations**
 - 🤝 **Open Source Contributions**
@@ -883,7 +740,7 @@ const ubaid = {
 
 ### 🤝 **Let's Connect & Create Something Amazing!**
 
-⭐ **Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/ubaidwaris)**
+⭐ **Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/UbaidBinWaris)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-63B8B2?style=for-the-badge&logo=heart&logoColor=white&labelColor=0A1930" />
@@ -894,6 +751,4 @@ const ubaid = {
 ---
 
 **Profile Keywords:** Full Stack Developer • System Developer • React Developer • Node.js Developer • C++ Programmer • JavaScript Expert • Web Development • Software Engineering • Open Source • Tech Innovation • AI Automation • Linux Administrator • Assembly Programming • DSA Expert • Cybersecurity • Database Design • Islamabad Pakistan • Remote Work
-
-</p>
 
