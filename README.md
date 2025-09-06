@@ -2,7 +2,9 @@
 
 # Hi, I'm Ubaid Bin Waris
 
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
+</p>
 
 <br/>
 
@@ -384,132 +386,24 @@
 </p>
 
 ### Echo Chat Application
-**Professional Client Project**
-
-<img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Client_Work-6366F1?style=for-the-badge" />
-
-#### Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-
-#### Key Features
-- **Real-time Messaging System**
-- **Secure User Authentication**  
-- **Multiple Chat Rooms**
-- **Fully Mobile Responsive**
-- **Message History & Storage**
-
-<p>
-<a href="$2"><img src="Live Site" /></a>
-<a href="$2"><img src="Client Work" /></a>
-</p>
-
----
+**Tech Stack:** React • Node.js • Socket.io • MongoDB  
+**Key Features:** Real-time messaging, secure authentication, multiple chat rooms
 
 ### Spotify Clone Platform
-**Music Streaming Application**
-
-<img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Personal-F59E0B?style=for-the-badge" />
-
-#### Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
-
-#### Key Features
-- **Custom Audio Playbar**
-- **Interactive Sound Controls**
-- **Smooth UI Animations**
-- **Playlist Management**
-- **Audio Streaming Engine**
-
-<p>
-<a href="$2"><img src="View Code" /></a>
-<a href="$2"><img src="Live Demo" /></a>
-</p>
-
----
+**Tech Stack:** React • Node.js • Express • MongoDB  
+**Key Features:** Custom audio playbar, playlist management, streaming engine
 
 ### Smart Car Challan System
-**C++ System Application**
-
-<img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
-
-#### Tech Stack
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![OOP](https://img.shields.io/badge/-OOP-FF6B6B?logo=code&logoColor=white&style=flat-square)
-![Encryption](https://img.shields.io/badge/-Encryption-4ECDC4?logo=shield&logoColor=white&style=flat-square)
-![File System](https://img.shields.io/badge/-File_System-45B7D1?logo=file&logoColor=white&style=flat-square)
-
-#### Key Features
-- **Vehicle Violation Tracking**
-- **Advanced Data Encryption**
-- **Multi-File Architecture**
-- **Object-Oriented Design**
-- **Secure File Management**
-
-<p>
-<a href="$2"><img src="View Code" /></a>
-<a href="$2"><img src="Documentation" /></a>
-</p>
-
----
+**Tech Stack:** C++ • OOP • Encryption • File System  
+**Key Features:** Vehicle violation tracking, data encryption, multi-file architecture
 
 ### University Management System
-**Next.js Web Application**
-
-<img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
-
-#### Tech Stack
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![API](https://img.shields.io/badge/-API-FF6B6B?logo=fastapi&logoColor=white&style=flat-square)
-![Responsive](https://img.shields.io/badge/-Responsive-38B2AC?logo=responsive&logoColor=white&style=flat-square)
-
-#### Key Features
-- **Comprehensive Student Portal**
-- **Advanced Admin Dashboard**
-- **Robust Database Management**
-- **Dynamic Data Processing**
-- **Real-time Analytics**
-
-<p>
-<a href="$2"><img src="View Code" /></a>
-<a href="$2"><img src="Live Demo" /></a>
-</p>
-
----
+**Tech Stack:** Next.js • SQL • API • Responsive Design  
+**Key Features:** Student portal, admin dashboard, database management
 
 ### Interior Design E-commerce
-**Full-Stack Shopping Platform**
-
-<img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Type-Commercial-DC2626?style=for-the-badge" />
-
-#### Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Payment](https://img.shields.io/badge/-Payment-00BAE9?logo=stripe&logoColor=white&style=flat-square)
-
-#### Key Features
-- **Advanced Product Catalog**
-- **Smart Shopping Cart System**
-- **Secure User Authentication**
-- **Payment Gateway Integration**
-- **Mobile-First Design**
-
-<p>
-<a href="$2"><img src="View Code" /></a>
-<a href="$2"><img src="Live Demo" /></a>
-</p>
+**Tech Stack:** React • Node.js • MongoDB • Payment Gateway  
+**Key Features:** Product catalog, shopping cart, secure authentication
 
 ---
 
@@ -524,22 +418,8 @@
 
 </p>
 
-#### Upcoming Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-
-#### Planned Features
-- **AI-Powered Data Insights**
-- **Real-time Analytics**
-- **Predictive Modeling**
-- **Interactive Dashboards**
-- **Performance Optimization**
-
-<p>
-<a href="$2"><img src="Follow Progress" /></a>
-</p>
+**Upcoming Tech Stack:** React • Python • TensorFlow • FastAPI  
+**Planned Features:** AI insights, real-time analytics, predictive modeling
 
 ---
 
