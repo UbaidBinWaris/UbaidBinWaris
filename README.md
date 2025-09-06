@@ -1,6 +1,6 @@
 ﻿<p align="center">
 
-# 👋 Hi, I'm Ubaid Bin Waris
+# Hi, I'm Ubaid Bin Waris
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;System+Programming+Enthusiast;Building+Digital+Solutions" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
   <img src="assets/banner.png" alt="Banner">
 </p>
 
-### 🏆 Showcasing Innovation Through Code
+### Showcasing Innovation Through Code
 *From real-time applications to system-level programming - every project tells a story of innovation*
 
 <br/>
@@ -27,22 +27,22 @@
 
 <p align="center">
 
-## ✨ Crafting Digital Solutions That Make an Impact
+## Crafting Digital Solutions That Make an Impact
 
 *Passionate about building scalable **web applications**, modern **UIs**, and exploring **system-level programming***
 
 </p>
 
-### 🚀 About Me
+### About Me
 
 <img align="right" alt="Coding" style="width:300px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlN2FkY2I4MjA5NTYyYjQzZWI5YjI3ZmMzYjI3ZDE2YjA3YjM5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **Computer Science Student** with a passion for innovation
-- 🌐 Specializing in **Next.js, React, Node.js, and MongoDB**
-- ⚡️ Exploring **Operating Systems, Game Development, and AI**
-- 💡 **Linux Enthusiast** (Ubuntu, Fedora, Arch, Zorin)
-- 📚 Expert in **system-level projects** and **database systems**
-- 🔥 Strong foundation in **C++ (DSA)** and **Assembly**
+- **Computer Science Student** with a passion for innovation
+- Specializing in **Next.js, React, Node.js, and MongoDB**
+- Exploring **Operating Systems, Game Development, and AI**
+- **Linux Enthusiast** (Ubuntu, Fedora, Arch, Zorin)
+- Expert in **system-level projects** and **database systems**
+- Strong foundation in **C++ (DSA)** and **Assembly**
 
 <br clear="right"/>
 
@@ -50,7 +50,7 @@
 
 <p align="center">
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 *Mastering the tools that build tomorrow's digital solutions*
 
@@ -58,7 +58,7 @@
 
 <p align="center">
 
-### 🌐 Frontend Technologies
+### Frontend Technologies
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
 <tr style="background-color: transparent; border: none;">
@@ -159,7 +159,7 @@
 
 ---
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
 <tr style="background-color: transparent; border: none;">
@@ -260,7 +260,7 @@
 
 ---
 
-### 🔧 Tools & DevOps
+### Tools & DevOps
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
 <tr style="background-color: transparent; border: none;">
@@ -363,7 +363,7 @@
 
 <p align="center">
 
-### 📊 Skill Level Legend
+### Skill Level Legend
 
 <img src="https://img.shields.io/badge/Expert-Professional_Level-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Advanced-Production_Ready-06B6D4?style=for-the-badge" />
@@ -377,277 +377,179 @@
 
 <p align="center">
 
-## 🏆 Featured Projects Portfolio
+## Featured Projects Portfolio
 
 *Building tomorrow's solutions with today's technology*
 
 </p>
 
-<p align="center">
-
-### 💬 Echo Chat Application
-**🎯 Professional Client Project**
+### Echo Chat Application
+**Professional Client Project**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Client_Work-6366F1?style=for-the-badge" />
 
-</p>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
-<tr style="background-color: transparent; border: none;">
-<td>
-
-#### 🛠️ Tech Stack
+#### Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
-</td>
-<td>
+#### Key Features
+- **Real-time Messaging System**
+- **Secure User Authentication**  
+- **Multiple Chat Rooms**
+- **Fully Mobile Responsive**
+- **Message History & Storage**
 
-#### ✨ Key Features
-- 💬 **Real-time Messaging System**
-- 🔐 **Secure User Authentication**  
-- 🏠 **Multiple Chat Rooms**
-- 📱 **Fully Mobile Responsive**
-- 💾 **Message History & Storage**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
+<p>
 <a href="$2"><img src="Live Site" /></a>
 <a href="$2"><img src="Client Work" /></a>
-
 </p>
 
 ---
 
-<p align="center">
-
-### 🎵 Spotify Clone Platform
-**🎯 Music Streaming Application**
+### Spotify Clone Platform
+**Music Streaming Application**
 
 <img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Personal-F59E0B?style=for-the-badge" />
 
-</p>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
-<tr style="background-color: transparent; border: none;">
-<td>
-
-#### 🛠️ Tech Stack
+#### Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 
-</td>
-<td>
+#### Key Features
+- **Custom Audio Playbar**
+- **Interactive Sound Controls**
+- **Smooth UI Animations**
+- **Playlist Management**
+- **Audio Streaming Engine**
 
-#### ✨ Key Features
-- 🎶 **Custom Audio Playbar**
-- 🎵 **Interactive Sound Controls**
-- ⚡️ **Smooth UI Animations**
-- 📋 **Playlist Management**
-- 🎧 **Audio Streaming Engine**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
+<p>
 <a href="$2"><img src="View Code" /></a>
 <a href="$2"><img src="Live Demo" /></a>
-
 </p>
 
 ---
 
-<p align="center">
-
-### 🚗 Smart Car Challan System
-**🎯 C++ System Application**
+### Smart Car Challan System
+**C++ System Application**
 
 <img src="https://img.shields.io/badge/Status-Complete-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
 
-</p>
-
-<table align="center">
-<tr>
-<td>
-
-#### 🛠️ Tech Stack
+#### Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![OOP](https://img.shields.io/badge/-OOP-FF6B6B?logo=code&logoColor=white&style=flat-square)
 ![Encryption](https://img.shields.io/badge/-Encryption-4ECDC4?logo=shield&logoColor=white&style=flat-square)
 ![File System](https://img.shields.io/badge/-File_System-45B7D1?logo=file&logoColor=white&style=flat-square)
 
-</td>
-<td>
+#### Key Features
+- **Vehicle Violation Tracking**
+- **Advanced Data Encryption**
+- **Multi-File Architecture**
+- **Object-Oriented Design**
+- **Secure File Management**
 
-#### ✨ Key Features
-- 🚓 **Vehicle Violation Tracking**
-- 🔒 **Advanced Data Encryption**
-- 🗃️ **Multi-File Architecture**
-- ⚙️ **Object-Oriented Design**
-- 💾 **Secure File Management**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
+<p>
 <a href="$2"><img src="View Code" /></a>
 <a href="$2"><img src="Documentation" /></a>
-
 </p>
 
 ---
 
-<p align="center">
-
-### 🎓 University Management System
-**🎯 Next.js Web Application**
+### University Management System
+**Next.js Web Application**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Academic-8B5CF6?style=for-the-badge" />
 
-</p>
-
-<table align="center">
-<tr>
-<td>
-
-#### 🛠️ Tech Stack
+#### Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![API](https://img.shields.io/badge/-API-FF6B6B?logo=fastapi&logoColor=white&style=flat-square)
 ![Responsive](https://img.shields.io/badge/-Responsive-38B2AC?logo=responsive&logoColor=white&style=flat-square)
 
-</td>
-<td>
+#### Key Features
+- **Comprehensive Student Portal**
+- **Advanced Admin Dashboard**
+- **Robust Database Management**
+- **Dynamic Data Processing**
+- **Real-time Analytics**
 
-#### ✨ Key Features
-- 👨‍🎓 **Comprehensive Student Portal**
-- 👨‍💼 **Advanced Admin Dashboard**
-- 💾 **Robust Database Management**
-- 🔄 **Dynamic Data Processing**
-- 📊 **Real-time Analytics**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
+<p>
 <a href="$2"><img src="View Code" /></a>
 <a href="$2"><img src="Live Demo" /></a>
-
 </p>
 
 ---
 
-<p align="center">
-
-### 🏠 Interior Design E-commerce
-**🎯 Full-Stack Shopping Platform**
+### Interior Design E-commerce
+**Full-Stack Shopping Platform**
 
 <img src="https://img.shields.io/badge/Status-Live-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Type-Commercial-DC2626?style=for-the-badge" />
 
-</p>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
-<tr style="background-color: transparent; border: none;">
-<td>
-
-#### 🛠️ Tech Stack
+#### Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Payment](https://img.shields.io/badge/-Payment-00BAE9?logo=stripe&logoColor=white&style=flat-square)
 
-</td>
-<td>
+#### Key Features
+- **Advanced Product Catalog**
+- **Smart Shopping Cart System**
+- **Secure User Authentication**
+- **Payment Gateway Integration**
+- **Mobile-First Design**
 
-#### ✨ Key Features
-- 🛋️ **Advanced Product Catalog**
-- 🛒 **Smart Shopping Cart System**
-- 🔐 **Secure User Authentication**
-- 💳 **Payment Gateway Integration**
-- 📱 **Mobile-First Design**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
+<p>
 <a href="$2"><img src="View Code" /></a>
 <a href="$2"><img src="Live Demo" /></a>
-
 </p>
 
 ---
 
 <p align="center">
 
-## 🚀 Innovation Pipeline
+## Innovation Pipeline
 
 <img src="https://img.shields.io/badge/Coming_Soon-2024-FF6B6B?style=for-the-badge&logo=rocket" />
 
-### 🔬 AI-Powered Analytics Dashboard
-**🎯 Next-Generation Data Intelligence**
+### AI-Powered Analytics Dashboard
+**Next-Generation Data Intelligence**
 
 </p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
-<tr style="background-color: transparent; border: none;">
-<td>
-
-#### 🛠️ Upcoming Tech Stack
+#### Upcoming Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 
-</td>
-<td>
+#### Planned Features
+- **AI-Powered Data Insights**
+- **Real-time Analytics**
+- **Predictive Modeling**
+- **Interactive Dashboards**
+- **Performance Optimization**
 
-#### ✨ Planned Features
-- 🤖 **AI-Powered Data Insights**
-- 📊 **Real-time Analytics**
-- 🎯 **Predictive Modeling**
-- 🌐 **Interactive Dashboards**
-- 📈 **Performance Optimization**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
+<p>
 <a href="$2"><img src="Follow Progress" /></a>
-
 </p>
 
 ---
 
 <p align="center">
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <p align="center">
 
-### 📈 **Code Journey & Impact**
+### **Code Journey & Impact**
 
 </p>
 
@@ -663,11 +565,11 @@
 
 ---
 
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 <p align="center">
 
-### 💬 **Let's Build Something Amazing Together!**
+### **Let's Build Something Amazing Together!**
 
 **Open for collaborations, freelance projects, and tech discussions**
 
@@ -687,49 +589,49 @@
 <p align="center">
 
 ###  **Available For:**
-- 🚀 **Freelance Web Development Projects**
-- 🎮 **Game Development Collaborations**
-- 🤝 **Open Source Contributions**
-- 💼 **Full-time Opportunities**
-- 🎓 **Mentoring & Code Reviews**
+- **Freelance Web Development Projects**
+- **Game Development Collaborations**
+- **Open Source Contributions**
+- **Full-time Opportunities**
+- **Mentoring & Code Reviews**
 
 </p>
 
 ---
 
-## 🎯 Fun Facts & Personal Touch
+## Fun Facts & Personal Touch
 
 <p align="center">
 
-### 🌟 **What Drives Me**
+### **What Drives Me**
 
 </p>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border: none;">
 <tr style="background-color: transparent; border: none;">
 <td align="center">
-  <h4>💡 <strong>Development Philosophy</strong></h4>
-  <p>🔥 <strong>Code Quality Enthusiast</strong><br/>Clean code is not just functional, but beautiful</p>
-  <p>🌱 <strong>Continuous Learner</strong><br/>Always exploring new technologies and frameworks</p>
-  <p>🌍 <strong>Open Source Advocate</strong><br/>Contributing to the global developer community</p>
-  <p>🔒 <strong>Security First</strong><br/>Implementing secure coding practices in every project</p>
+  <h4><strong>Development Philosophy</strong></h4>
+  <p><strong>Code Quality Enthusiast</strong><br/>Clean code is not just functional, but beautiful</p>
+  <p><strong>Continuous Learner</strong><br/>Always exploring new technologies and frameworks</p>
+  <p><strong>Open Source Advocate</strong><br/>Contributing to the global developer community</p>
+  <p><strong>Security First</strong><br/>Implementing secure coding practices in every project</p>
 </td>
 <td align="center">
-  <h4>⚡ <strong>Daily Inspirations</strong></h4>
-  <p>☕ <strong>Coffee-Powered Developer</strong><br/>Best code is written with a cup of coffee</p>
-  <p>🎵 <strong>Music Lover</strong><br/>Coding with background music enhances creativity</p>
-  <p>💻 <strong>System Architecture Enthusiast</strong><br/>Love designing efficient system architectures</p>
-  <p>🐧 <strong>Linux Enthusiast</strong><br/>Passionate about open source and Linux customization</p>
+  <h4><strong>Daily Inspirations</strong></h4>
+  <p><strong>Coffee-Powered Developer</strong><br/>Best code is written with a cup of coffee</p>
+  <p><strong>Music Lover</strong><br/>Coding with background music enhances creativity</p>
+  <p><strong>System Architecture Enthusiast</strong><br/>Love designing efficient system architectures</p>
+  <p><strong>Linux Enthusiast</strong><br/>Passionate about open source and Linux customization</p>
 </td>
 </tr>
 </table>
 
 <p align="center">
 
-### 💭 **Developer Quote**
+### **Developer Quote**
 *"The best way to predict the future is to create it."* - Alan Kay
 
-### 🏠 **Based in Islamabad, Pakistan** 🇵🇰
+### **Based in Islamabad, Pakistan** 🇵🇰
 **Available for remote work and global collaborations**
 
 </p>
@@ -738,9 +640,9 @@
 
 <p align="center">
 
-### 🤝 **Let's Connect & Create Something Amazing!**
+### **Let's Connect & Create Something Amazing!**
 
-⭐ **Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/UbaidBinWaris)**
+**Crafted with passion and precision by [Ubaid Bin Waris](https://github.com/UbaidBinWaris)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-63B8B2?style=for-the-badge&logo=heart&logoColor=white&labelColor=0A1930" />
