@@ -222,7 +222,7 @@ Strong foundation in **C++ (DSA)** & **Assembly**.
 ### **Developer Quote**
 *"The best way to predict the future is to create it."* - Alan Kay
 
-### **Based in Islamabad, Pakistan** 🇵🇰
+### **Based in Islamabad, Pakistan**
 **Available for remote work and global collaborations**
 
 </p>
