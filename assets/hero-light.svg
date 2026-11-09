@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ubaid Bin Waris, full-stack developer. I engineer the whole product. 15 case studies, 4 live in production, 2 public on GitHub, 24h typical reply.">
+  <defs>
+    <clipPath id="type"><rect x="64" y="150" width="0" height="56">
+      <animate attributeName="width" values="0;24;48;72;96;120;144;168;192;216;240;264;288;312;336;360;384;408;432;456;480;504;528;552;576;600;624;648;672;696" keyTimes="0.0000;0.0345;0.0690;0.1034;0.1379;0.1724;0.2069;0.2414;0.2759;0.3103;0.3448;0.3793;0.4138;0.4483;0.4828;0.5172;0.5517;0.5862;0.6207;0.6552;0.6897;0.7241;0.7586;0.7931;0.8276;0.8621;0.8966;0.9310;0.9655;1.0000" calcMode="discrete" begin="0.4s" dur="2.175s" fill="freeze"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect width="1200" height="320" fill="#ffffff"/>
+
+  <!-- terminal window -->
+  <rect x="40" y="40" width="1120" height="240" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+  <line x1="40" y1="86" x2="1160" y2="86" stroke="#e5e5e5"/>
+  <circle cx="66" cy="63" r="6" fill="#ff5f56"/>
+  <circle cx="86" cy="63" r="6" fill="#ffbd2e"/>
+  <circle cx="106" cy="63" r="6" fill="#27c93f"/>
+  <text x="600" y="68" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#6b6b6b">ubaid@arch: ~/products</text>
+
+  <!-- eyebrow -->
+  <text x="64" y="124" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#6b6b6b">UBAID BIN WARIS / FULL-STACK DEVELOPER</text>
+
+  <!-- typed headline -->
+  <g clip-path="url(#type)">
+    <text x="64" y="192" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="40" font-weight="600" fill="#0a0a0a" textLength="696" lengthAdjust="spacing">I engineer the whole product.</text>
+  </g>
+  <rect x="64" y="158" width="3" height="42" fill="#0a0a0a">
+    <animate attributeName="x" values="64;88;112;136;160;184;208;232;256;280;304;328;352;376;400;424;448;472;496;520;544;568;592;616;640;664;688;712;736;760" keyTimes="0.0000;0.0345;0.0690;0.1034;0.1379;0.1724;0.2069;0.2414;0.2759;0.3103;0.3448;0.3793;0.4138;0.4483;0.4828;0.5172;0.5517;0.5862;0.6207;0.6552;0.6897;0.7241;0.7586;0.7931;0.8276;0.8621;0.8966;0.9310;0.9655;1.0000" calcMode="discrete" begin="0.4s" dur="2.175s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.575s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- deploy line + status (fades in after typing) -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.775s" dur="0.4s" fill="freeze"/>
+    <text x="64" y="232" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="15" fill="#525252">$ deploy --env production</text>
+    <circle cx="372" cy="227" r="4" fill="#27c93f"/>
+    <text x="384" y="232" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="15" fill="#0a0a0a">system stable</text>
+  </g>
+
+  <!-- stats -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.075s" dur="0.4s" fill="freeze"/>
+    <text x="64" y="268" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14"><tspan font-weight="600" fill="#0a0a0a">15</tspan><tspan dx="8" fill="#525252">case studies</tspan></text>
+    <text x="326" y="268" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14"><tspan font-weight="600" fill="#0a0a0a">4</tspan><tspan dx="8" fill="#525252">live in production</tspan></text>
+    <text x="624" y="268" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14"><tspan font-weight="600" fill="#0a0a0a">2</tspan><tspan dx="8" fill="#525252">public on GitHub</tspan></text>
+    <text x="900" y="268" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14"><tspan font-weight="600" fill="#0a0a0a">24h</tspan><tspan dx="8" fill="#525252">typical reply</tspan></text>
+  </g>
+</svg>
