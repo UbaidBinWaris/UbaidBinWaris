@@ -3,11 +3,13 @@
   <img alt="Ubaid Bin Waris, full-stack developer. I engineer the whole product. 15 case studies, 4 live in production, 2 public on GitHub, 24h typical reply." src="https://raw.githubusercontent.com/UbaidBinWaris/UbaidBinWaris/main/assets/hero-light.svg" width="100%">
 </picture>
 
-# Ubaid Bin Waris
+# Ubaid Bin Waris | Full-Stack Developer, AI & Backend Engineer
 
-**Full-stack developer and backend engineer in Islamabad, Pakistan.** From polished React
-interfaces to production APIs, AI automation, voice agents, databases, deployment pipelines,
-and the Linux servers that keep everything running.
+**I engineer the whole product.** Full-stack developer and backend engineer in Islamabad,
+Pakistan, building Next.js and React products, Node.js, NestJS and Spring Boot backends,
+AI agents, voice AI, n8n automation, PostgreSQL databases, CI/CD pipelines and the Linux
+servers that keep everything running. Case studies, services and contact details live on
+[ubaidbinwaris.com](https://ubaidbinwaris.com).
 
 <p>
   <a href="https://ubaidbinwaris.com"><img src="https://img.shields.io/badge/Portfolio-ubaidbinwaris.com-0a0a0a?style=flat-square" alt="Portfolio"></a>
@@ -19,10 +21,10 @@ and the Linux servers that keep everything running.
   <a href="https://ubaidbinwaris.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-525252?style=flat-square" alt="Resume PDF"></a>
 </p>
 
-## 01 / Work
+## 01 / Work: full-stack, AI and voice projects
 
-Behind the interface. Inside the system. Six of the fifteen case studies on
-[ubaidbinwaris.com](https://ubaidbinwaris.com/#projects):
+Behind the interface. Inside the system. Six of the fifteen case studies from the
+[engineering portfolio](https://ubaidbinwaris.com/#projects):
 
 | Project | What it is | Stack | Status | Links |
 |---|---|---|---|---|
@@ -58,7 +60,8 @@ Behind the interface. Inside the system. Six of the fifteen case studies on
 
 ## 02 / Expertise
 
-One engineer. Six connected domains.
+One engineer across six connected domains: AI agents, voice AI, backend systems,
+automation, infrastructure, and product and data.
 
 | Domain | Stack |
 |---|---|
@@ -69,9 +72,10 @@ One engineer. Six connected domains.
 | **Infrastructure** | Arch Linux · Docker & Compose · Nginx, Apache, Certbot · CI/CD & GitHub Actions |
 | **Product & Data** | Next.js & React · PostgreSQL & Supabase · MongoDB & MySQL · TypeScript & Tailwind |
 
-## 03 / Services
+## 03 / Services: hire a full-stack, AI and voice developer
 
-From the interface to the infrastructure.
+From the interface to the infrastructure. Each service below has its own page with the
+approach, deliverables and tools.
 
 | # | Service | What you get |
 |---|---|---|
@@ -82,7 +86,7 @@ From the interface to the infrastructure.
 | 05 | [Linux & Cloud Infrastructure Engineer](https://ubaidbinwaris.com/infrastructure-devops) | Server setup, reverse proxies, backups and local LLM hosting, with documented handover. Linux · Docker · Nginx |
 | 06 | [Next.js Developer](https://ubaidbinwaris.com/hire-nextjs-developer-pakistan) | App Router websites, SaaS interfaces and backend integration for remote teams. Next.js · React · TypeScript |
 
-## 04 / About
+## 04 / About Ubaid Bin Waris
 
 ```text
 $ uname -daily-driver
@@ -117,8 +121,8 @@ environments.
 
 ## 06 / Let's talk
 
-Available for new projects. Remote worldwide from Islamabad, Pakistan (UTC+5), with a
-typical reply within 24 hours.
+Available for new projects: freelance, contract or full-time remote. Working worldwide
+from Islamabad, Pakistan (UTC+5), with a typical reply within 24 hours.
 
 - **Email:** ubaidwaris34@gmail.com
 - **Hire:** [Upwork](https://www.upwork.com/freelancers/~01d2f557e6c01a0296) · [Fiverr](https://www.fiverr.com/ubaidwaris655)
